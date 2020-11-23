@@ -15,10 +15,12 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+      run: docker build . --file Dockerfile --tag bib:$(date +%s)
+    - name: Run Docker
+      run: docker run -v ${PWD}:/data bib:latest
     - name: What OS is running
       run: uname -a
     - name: ls
-      run: ls
+      run: cd data & ls
     - name: bibetextmake
       run: sh publist.sh
