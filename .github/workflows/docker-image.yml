@@ -24,3 +24,6 @@ jobs:
       run:  docker run bib ls data
     - name: bibetextmake
       run: docker run -v ${PWD}:/data bib sh ./data/publist.sh
+    - name: commit
+      run: ll _includes
+
