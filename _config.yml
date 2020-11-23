@@ -17,7 +17,7 @@ slogan: 'We make Machine Learning Happen'
 description: 'A Christian Doppler Laboratory (CD-Lab) is funded in equal parts by the Christian Doppler Gesellschaft and by the industry partners. It combines basic and applied research to further the field and leverage the strengths of the industrial partners to help them staying at the cutting edge in their domains. The planned duration of the CD-Lab is seven years, October 2019 - September 2026.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with &hearts; by Matthias with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
