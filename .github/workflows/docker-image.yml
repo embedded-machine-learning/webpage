@@ -14,11 +14,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
+    - name: Build the Docker image
+      run: docker build . --file Dockerfile --tag bib
+    - name: Run Docker
+      run: docker run bib uname -a
     - name: What OS is running
       run: uname -a
     - name: ls
-      run:  ls
-    - name: install bibtext
-      run: apt install -y bibtex2html
+      run:  docker run bib ls data
     - name: bibetextmake
-      run: sh publist.sh
+      run: docker run -v ${PWD}:/data bib sh ./data/publist.sh
