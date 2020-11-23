@@ -38,7 +38,7 @@ improve_content: https://github.com/embedded-machine-learning/webpage/edit/gh-pa
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 
-urlimg: 'https://mwessley.github.io/CDL_EML_webpage/images/'
+urlimg: 'https://embedded-machine-learning.github.io/webpage/images/'
 
 
 # Logo size is 600x80 pixels
