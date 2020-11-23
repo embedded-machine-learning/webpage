@@ -1,6 +1,6 @@
 #!/bin/sh
 
-baseDir=${PWD}
+baseDir=/data
 
 # Publication list:
 bibsrc=$baseDir/PublFiles/eml.bib
