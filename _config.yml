@@ -25,12 +25,12 @@ author: matthias
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://eml.ict.tuwien.ac.at'
-baseurl: ''
+url: 'https://embedded-machine-learning.github.io'
+baseurl: 'webpage/'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/mwessley/CDL_EML_webpage/edit/gh-pages
+improve_content: https://github.com/embedded-machine-learning/webpage/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
