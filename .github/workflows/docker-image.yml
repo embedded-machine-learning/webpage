@@ -16,3 +16,9 @@ jobs:
     - uses: actions/checkout@v2
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+    - name: What OS is running
+      run: uname -a
+    - name: ls
+      run: ls
+    - name: bibetextmake
+      run: sh publist.sh
