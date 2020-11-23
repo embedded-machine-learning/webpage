@@ -1,0 +1,15 @@
+- menu_name: "Impressum"
+
+- name: "Christian Doppler Laboratoy for Embedded Machine Learning"
+- name: "TU Wien, Institute of Computer Technology"
+- name: "Gusshausstrasse 27-29, 1040 Vienna, Austria"
+- name: "Phone: +43 1 58801 38401"
+- name: "Email: <a href='mailto:cdleml@tuwien.ac.at'>cdleml@tuwien.ac.at</a>"
+- name: "Web: <a href='http://eml.ict.tuwien.ac.at'>eml.ict.tuwien.ac.at</a>"
+- name: "Impressum TU"
+  url: "http://www.tuwien.ac.at/impressum"
+  title: "Impressum TU"
+- name: Datenschutzerklärung
+  url: "https://www.tuwien.at/datenschutzerklaerung/"
+  title: "Datenschutzerklärung"
+
