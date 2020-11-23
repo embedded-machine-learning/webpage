@@ -17,10 +17,10 @@ jobs:
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag bib
     - name: Run Docker
-      run: docker run -ti -v ${PWD}:/data bib
+      run: docker run -v ${PWD}:/data bib uname -a
     - name: What OS is running
       run: uname -a
     - name: ls
-      run: cd data & ls
+      run:  docker run -v ${PWD}:/data bib cd data & ls
     - name: bibetextmake
-      run: sh publist.sh
+      run: docker run -v ${PWD}:/data bib /data/publist.sh
