@@ -272,4 +272,4 @@ asciidoctor:
     coderay-css: style
     icons: font
 
-theme: jekyll-theme-minimal
+remote_theme: Phlow/feeling-responsive@gh-pages
