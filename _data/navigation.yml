@@ -1,0 +1,39 @@
+- title: About
+  url: "/"
+  side: left
+
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+    
+- title: Research
+  url: "/research/"
+  side: left
+    
+- title: Partners
+  url: "/partners/"
+  side: left
+    
+- title: People
+  url: "/people/"
+  side: left
+    
+- title: Publications
+  url: "/publications/"
+  side: left
+    
+
+
+
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
