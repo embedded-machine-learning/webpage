@@ -5,5 +5,5 @@ RUN apt-get update -y
 RUN apt install -y bibtex2html
 RUN rm -rf /var/lib/apt/lists/*
 ADD . /data
-RUN sh /data/test.sh
+RUN sh /data/publist.sh
 CMD bash
