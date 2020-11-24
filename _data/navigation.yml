@@ -13,6 +13,13 @@
 - title: Research
   url: "/research/"
   side: left
+  dropdown:
+  - title: "Vision"
+    url: "/research/vision/"
+  - title: "Activities"
+    url: "/research/activities/"
+  - title: "Results"
+    url: "/research/results/"
     
 - title: Partners
   url: "/partners/"
