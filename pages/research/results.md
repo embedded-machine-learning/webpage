@@ -7,4 +7,15 @@ title: "Results"
 permalink: "/research/results/"
 ---
 
-Results post
+### Theses
+
+### Software
+
+### Publications
+
+See the [Publication section]({{ site.url }}{{ site.baseurl }}/publications).
+
+---
+
+{% include researchFooter.html %}
+

@@ -32,8 +32,5 @@ The CD lab conducts world leading research on embedded machine learning in the a
 </div><!-- /.row -->
 
 
-<ul>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/research/activities/">Activities</a></li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/research/vision/">Vision</a></li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/research/results/">Results</a></li>
-</ul>
+{% include researchFooter.html %}
+

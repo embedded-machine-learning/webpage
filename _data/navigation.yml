@@ -16,6 +16,8 @@
   dropdown:
   - title: "Vision"
     url: "/research/vision/"
+  - title: "Description"
+    url: "/research/description/"
   - title: "Activities"
     url: "/research/activities/"
   - title: "Results"
