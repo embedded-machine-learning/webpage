@@ -15,7 +15,7 @@ permalink: "/contact/"
 </tr>
 <tr>
     <td class="org-left">Office:</td>
-    <td class="org-left">3rd floor, Room CB0316</td>
+    <td class="org-left">3rd floor, Room CB 0316</td>
 </tr>
 <tr>
     <td class="org-left">Phone:</td>
