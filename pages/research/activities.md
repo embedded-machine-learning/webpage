@@ -9,6 +9,7 @@ permalink: "/research/activities/"
 
 [//]: # Good guide for reading csv files: https://jekyllrb.com/tutorials/csv-to-table/
 
+{% comment %}
 <table>
   {% for row in site.data.ActivitiesOverview %}
     {% if forloop.first %}
@@ -29,3 +30,35 @@ permalink: "/research/activities/"
     
   {% endfor %}
 </table>
+{% endcomment %}
+
+---
+
+<table>
+  {% for row in site.data.WorkProgress %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+      	 {% if pair[0] != "Row" %}
+            <th>{{ pair[0] }}</th>
+	 {% endif %}
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    <tr>
+      {% for pair in row %}
+      	 {% if pair[0] != "Row" %}
+            <td>{{ pair[1] }}</td>
+	 {% endif %}
+      {% endfor %}
+    </tr>
+
+      
+  {% endfor %}
+</table>
+
+---
+
+{% include researchFooter.html %}
+
