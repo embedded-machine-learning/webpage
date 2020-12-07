@@ -9,31 +9,42 @@ permalink: "/research/activities/"
 
 [//]: # Good guide for reading csv files: https://jekyllrb.com/tutorials/csv-to-table/
 
-{% comment %}
+{% assign StatusList = "running,closed,not started,cancelled" | split: "," %}
+
+{% for st in StatusList %}
+### {{ st | capitalize }} 
+
 <table>
-  {% for row in site.data.ActivitiesOverview %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
+  {% for row in site.data.WorkProgress %}
+     {% if forloop.first %}
+	<tr>
+	{% for pair in row %}
+	   {% if pair[0] != "Row" and pair[0] != "State" %}
+	      <th>{{ pair[0] }}</th>
+	   {% endif %}
+        {% endfor %}
+	</tr>
+     {% endif %}
 
-    {% if row["Status"] == "Started" %}
+     {% if row["State"] == st %}
+        <tr>
+        {% for pair in row %}
+	   {% if pair[0] != "Row" and pair[0] != "State" %}
+	       <td>{{ pair[1] }}</td>
+	   {% endif %}
+        {% endfor %}
+        </tr>
 
-      {% tablerow pair in row %}
-        {{ pair[1] }}
-      {% endtablerow %}
-      
-    {% endif %}
-    
+     {% endif %}    
   {% endfor %}
+  
 </table>
-{% endcomment %}
+{% endfor %}
 
 ---
+---
 
+{% comment %}
 <table>
   {% for row in site.data.WorkProgress %}
     {% if forloop.first %}
@@ -57,6 +68,8 @@ permalink: "/research/activities/"
       
   {% endfor %}
 </table>
+{% endcomment %}
+
 
 ---
 
