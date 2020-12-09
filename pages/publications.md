@@ -10,4 +10,15 @@ permalink: /publications/
 # header: no
 ---
 
-{% include publist.html %}
+### Presentations
+
+{% include publistPresentations.html %}
+
+### Journals
+
+{% include publistArticles.html %}
+
+### Conferences
+
+{% include publistConferences.html %}
+

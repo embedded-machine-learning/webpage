@@ -7,6 +7,7 @@ title: "Research"
 permalink: "/research/"
 ---
 
+
 The Christian Doppler laboratory for Embedded Machine Learning conducts research on Deep Neural Network (DNN) based machine learning in resource constrained embedded devices. It studies the design space that is characterized by DNN architecture parameters, DNN optimization and transformations, various implementation platform configurations, and mapping options. This design space is huge, poorly understood, and rapidly evolving. Our focus is not DNN theory, but DNN implementation under tight cost and energy constraints. The CD lab is organized in three work packages:
 
 - WP1, Embedded Platforms, assumes a given DNN and study FPGA, GPU, and SoC platforms, and their configuration. It focuses on platform dependant optimization and mapping.
@@ -29,3 +30,7 @@ The CD lab conducts world leading research on embedded machine learning in the a
      The team captured by an articfical neural network.
     </div>
 </div><!-- /.row -->
+
+
+{% include researchFooter.html %}
+

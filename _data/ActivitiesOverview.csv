@@ -1,0 +1,18 @@
+Start date,End date,Type,Topic,Student,Supervisor,Progress,Link,Status
+2/28/2020,,BA,Leistungsmessung einer GPU Plattform für Machine Learning Anwendungen,S. Holly,AW,NVIDIA Powerprofiling,,Started
+3/30/2020,,N/A,SqueezeNAS,A. Mozelli,AW,Netzwerkdesign,,Started
+5/25/2020,,MA,Compressing MobileNet With Shunt Connections for NVIDIA Hardware,B. Haas,AW,Netzwerkdesign,,Started
+5/25/2020,,MA,	Optimizing DNNs for efficient dronebased ragweed detection,L. Steindl,AW,"Ragweederkennung, Applikation",,Started
+7/6/2020,,BA,Cloudservices in der Lehre,J. Roth,AW,"Amazon, Azure und Google testen",,Started
+7/13/2020,,MA,	Simultanous Detection and Segmentation of Different Objects,H. Breitenfellner,AW,Panoptic segmentation,,Started
+10/5/2020,,BA,YoloV3 vs. YoloV4 auf Xilinx,F. Scherer,AW/ML,Arbeit in Kaiserslautern be Grimm. Netzwerkdesign,,Started
+10/19/2020,,BA,Hardware Aware Pruning auf OpenVino,J. Westra,AW,Erstmeeting nächste 12.11,,Started
+11/3/2020,,BA,Hardware Aware Pruning with Slimmable Networks,K Knoth,AW,Arbeit noch nicht in TISS,,Started
+2020-02-xx,,MA,Quantization,D. Dallinger,MW,Fast fertig,,Started
+2020-02-xx,,MA,Pruning,A. Glinserer,ML,Fast fertig,,Started
+2020-11-xx,,BA,Ursprüngliches Thema: Knowledge Distillation,N. Alge,?,Neues Thema notwendig,,Not started
+11/3/2020,,N/A,Power and Latency Optimization of the Xilinx ZCU102 Platform for a Pedestrian Intention Recognition Use Case,M. Wuschnig,MW,Aufgabe nach dem Reportprotokoll,,Not started
+11/3/2020,,Sem,Tensorflow an Handy,T. Kotrba,AW,Tensorflow Lite an einem Android bringen und Netze trainieren,,Not started
+NA,,,Power Xilinx: Generelle Powerabschätzungsmodell durch Synthetisierung erstellen,,KK,Thema definieren,,Not defined
+NA,,,"Resourcenestimierung NVIDIA Möglichkeiten sondieren, Framework, nSight?",,ML,Thema definieren,,Not defined
+11/3/2020,,N/A,Anpassung eines Latenz- und Leistungsschätzungsmodell für ARM Prozessoren,MI,MW,,,Started

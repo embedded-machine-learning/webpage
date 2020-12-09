@@ -1,0 +1,35 @@
+Row,WP ID,Title,Start Date,End Date,Description,Responsible,Student,Links,State,Prio
+7,WP1.1.1,State of the Art Latency und Power Estimation Modelle aufsetzen,09-01-20,10-30-20,Setup Neural Power latency and power estimation model,Marco Wuschnig,,,closed,
+10,WP1.1.2,Estimator Blackthorn for Latency (NVIDIA),10-01-19,,Model based latency estimator method,Martin Lechner,Martin Lechner,,running,1
+14,WP1.1.3,"Estimator method ANETTE for Latency (Intel, ARM, Xilinx)",10-01-19,,Statistic and model based latency estimator method  ,Matthias Wess,Matthias Wess,,running,1
+21,WP1.1.4,Estimation of Power through a White box model,08-01-20,10-30-20,Power estimation through circuit simulator,Christian Krieg,,,cancelled,
+24,WP1.1.5,Estimation of Power through ANETTE,,,Power estimation through the estimator ANNETTE,Matthias Wess,,,not started,2
+29,WP1.1.6,Estimation of On-Chip Resources,,,Estimate resources like memory usage,Martin Lechner,,,not started,3
+34,WP1.2.1,NVIDIA Profiling,03-01-20,,"HW settings profiling of NVIDIA Xavier, Jetson Nano (Bachelor thesis) and TX2",Alexander Wendt,Stephan Holly,,running,1
+40,WP1.2.2,ARM Profiling,11-01-20,,HW settings profiling of Raspberry Pi,Matvey Ivanov,,,running,1
+43,WP1.2.3,Xilinx Profiling,11-01-20,,HW settings profiling of Xilinx ZCU102,Marco Wuschnig,,,running,1
+46,WP1.2.4,Intel Profiling,10-01-19,,HW settings profiling of Intel NCS2 and CPU through OpenVino,Matvey Ivanov,,,running,3
+53,WP1.3.1,Gemeinsame Infrastruktur Hardwareschnittstelle,,,Common software interfaces for devices,Marco Wuschnig,,,not started,3
+57,WP1.3.2,Inferenz an NVIDIA Hardware ermöglichen,03-01-20,,"Inference on Nano, TX2 and Xavier",Amid Mozelli,,,running,1
+64,WP1.3.3,Inferenz an Intelgeräte ermöglichen,10-01-19,,Inference on NUC and NCS2,Matvey Ivanov,,,running,2
+68,WP1.3.4,Inferenz an ARM ermöglichen,10-01-20,,Inference on Raspberry Pi,Matvey Ivanov,,,running,1
+72,WP1.3.4,Inferenz an Xilinx ermöglichen,10-01-20,,Inference on Xilinx ZCU102,Matvey Ivanov,,,running,1
+77,WP1.3.5,Powermessungen für NCS2 und NVIDIA ermöglichen,07-01-20,,Allow power measurements for common HW,Matvey Ivanov,,,running,2
+87,WP1.3.6,Systemintegration,,,Demonstration and documentation,Alexander Wendt,,,not started,3
+93,WP2.1.1,HW unabhängige Quantization,03-01-20,,HW independent quantization on Xilinx,Matthias Wess,Dominik Dallinger,,running,3
+96,WP2.1.2,NVIDIA Native Quantization,11-01-20,,Test Tensor-RT native quantization,Alexander Wendt,Karoline Knoth,,running,2
+98,WP2.1.3,Intel Native Quantization,10-01-20,,Test OpenVino native quantization,Alexander Wendt,Julian Westra,,running,2
+100,WP2.1.4,Xilinx Quantization Aware Training,10-01-20,,Tradeoff between slimmable networks and quantization regarding performance loss and latency gain,Matthias Wess,Birgit Schreiber,,running,1
+107,WP2.2.1,Distiller HW unabhängiges Pruning,03-01-20,,HW independent pruning through distiller,Matthias Wess,Andreas Glinserer,,running,3
+110,WP2.2.2,Netzoptimierung durch slimmable Networks,10-01-20,,Application of slimmable networks on NVIDIA,Matthias Wess,Karoline Knoth,,running,2
+127,WP2.4.1,Shuntconnections für MobileNet,08-01-20,,Replace blocks of MobileNet with shunt connections to reduce FLOPS,Bernhard Haas,Bernhard Haas,,running,1
+130,WP2.4.2,SqueezeNas Modelle trainieren,04-01-20,,Reimplement SqueezeNAS for semantic segmentation. Compare to Deeplab,Amid Mozelli,,,running,2
+134,WP2.4.3,Gemeinsamer Backbone für semantic und instance Segmentation,09-01-20,,Use common MobileNet Backbone for both detection and segmentation,Alexander Wendt,Helmuth Breitenfellner,,running,3
+143,WP2.5.1,Trainingsserver EDA01 einrichten,05-01-20,,Get the training server ready for Pytorch and TF2,Amid Mozelli,,,running,2
+148,WP2.5.2,Externes Training einrichten,10-01-20,,Access to Amazon AWS and Vienna Scientific Cluster for training,Matthias Wess,,,running,2
+152,WP2.5.3,Messdatenbank für Messungen im Labor einrichten,,,Collect all measurements from devices,Alexander Wendt,,,not started,3
+157,WP2.5.4,EML-Prozess automatisieren und vereinfachen,,,Automate manual inference steps,Alexander Wendt,,,not started,3
+162,WP2.5.5,Applikation: Traffic Light System,03-01-20,,"Find best combination of HW device and network MobileNet, EfficientDet and Yolo for a pedestrian detection application",Alexander Wendt,,,running,2
+167,WP2.5.6,Applikation: Ragweederkennung über eine Drohne,08-01-20,,Recognize Ragweed from a drone. Optimize Network on NVIDIA devices,Alexander Wendt,Lukas Steindl,,running,3
+175,WP2.5.7,Applikation: Minicar Demonstrator,01-01-20,,Minicar demonstrator for execution of detection networks on Raspberry Pi,Matvey Ivanov,Matvey Ivanov,,running,3
+180,WP2.5.8,Applikation: TFLite Netz auf einem Handy,10-01-20,,Mobile phone demonstrator for detection,Alexander Wendt,Thomas Kotrba,,running,3
