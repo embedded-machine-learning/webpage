@@ -25,7 +25,7 @@ author: matthias
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://embedded-machine-learning.github.io'
+url: 'https://eml.ict.tuwien.ac.at'
 baseurl: '/webpage'
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/embedded-machine-learning/webpage/edit/gh-pa
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 
-urlimg: 'https://embedded-machine-learning.github.io/webpage/images/'
+urlimg: 'https://eml.ict.tuwien.ac.at/webpage/images/'
 
 
 # Logo size is 600x80 pixels
