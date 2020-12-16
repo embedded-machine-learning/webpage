@@ -19,7 +19,7 @@ permalink: "/research/activities/"
      {% if forloop.first %}
 	<tr>
 	{% for pair in row %}
-	   {% if pair[0] != "Row" and pair[0] != "State" %}
+	   {% if pair[0] != "State" %}
 	      <th>{{ pair[0] }}</th>
 	   {% endif %}
         {% endfor %}
@@ -29,8 +29,12 @@ permalink: "/research/activities/"
      {% if row["State"] == st %}
         <tr>
         {% for pair in row %}
-	   {% if pair[0] != "Row" and pair[0] != "State" %}
-	       <td>{{ pair[1] }}</td>
+	   {% if pair[0] != "State" %}
+	      {% if pair[0] == "Progress" %}
+	      	 <td>{{ pair[1] | times: 100.0 | round }}% </td>
+	      {% else %}
+	       	 <td>{{ pair[1] }}</td>
+	      {% endif %}
 	   {% endif %}
         {% endfor %}
         </tr>

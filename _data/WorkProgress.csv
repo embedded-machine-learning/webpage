@@ -1,35 +1,44 @@
-Row,WP ID,Title,Start Date,End Date,Description,Responsible,Student,Deliver.,Result,State,Prio
-7,WP1.1.1,State of the Art Latency und Power Estimation Modelle aufsetzen,09/01/2020,10/30/2020,Setup Neural Power latency and power estimation model,Marco Wuschnig,,None,,completed,
-10,WP1.1.2,Estimator Blackthorn for Latency (NVIDIA),10/01/2019,,Model based latency estimator method,Martin Lechner,Martin Lechner,,,active,1
-14,WP1.1.3,"Estimator method ANETTE for Latency (Intel, ARM, Xilinx)",10/01/2019,,Statistic and model based latency estimator method  ,Matthias Wess,Matthias Wess,,,active,1
-21,WP1.1.4,Estimation of Power through a Black box model,08/01/2020,10/30/2020,Power estimation by way of abstraction and model building,Christian Krieg,,,,open,3
-24,WP1.1.5,Estimation of Power through ANETTE,,,Power estimation through the estimator ANNETTE,Matthias Wess,,,,open,2
-29,WP1.1.6,Estimation of On-Chip Resources,,,Estimate resources like memory usage,Martin Lechner,,,,open,3
-34,WP1.2.1,NVIDIA Profiling,03/01/2020,,"HW settings profiling of NVIDIA Xavier, Jetson Nano (Bachelor thesis) and TX2",Alexander Wendt,Stephan Holly,D1.2.1,"Bachelor thesis, Publication, Documentation",active,1
-40,WP1.2.2,ARM Profiling,11/01/2020,,HW settings profiling of Raspberry Pi,Matvey Ivanov,,D1.2.2,"Repository, Document",active,1
-43,WP1.2.3,Xilinx Profiling,11/01/2020,,HW settings profiling of Xilinx ZCU102,Marco Wuschnig,,,,active,1
-46,WP1.2.4,Intel Profiling,10/01/2019,,HW settings profiling of Intel NCS2 and CPU through OpenVino,Matvey Ivanov,,,,active,3
-53,WP1.3.1,Gemeinsame Infrastruktur Hardwareschnittstelle,,,Common software interfaces for devices,Marco Wuschnig,,,,open,3
-57,WP1.3.2,Inferenz an NVIDIA Hardware ermöglichen,03/01/2020,,"Inference on Nano, TX2 and Xavier",Amid Mozelli,,D1.3.1,"Document, validation networks",active,1
-64,WP1.3.3,Inferenz an Intelgeräte ermöglichen,10/01/2019,,Inference on NUC and NCS2,Matvey Ivanov,,D1.3.1,"Document, validation networks",active,2
-68,WP1.3.4,Inferenz an ARM ermöglichen,10/01/2020,,Inference on Raspberry Pi,Matvey Ivanov,,D1.3.1,"Document, validation networks",active,1
-72,WP1.3.4,Inferenz an Xilinx ermöglichen,10/01/2020,,Inference on Xilinx ZCU102,Matvey Ivanov,,D1.3.1,"Document, validation networks",active,1
-77,WP1.3.5,Powermessungen für NCS2 und NVIDIA ermöglichen,07/01/2020,,Allow power measurements for common HW,Matvey Ivanov,,,,active,2
-87,WP1.3.6,Systemintegration,,,Demonstration and documentation,Alexander Wendt,,,,open,3
-93,WP2.1.1,HW unabhängige Quantization,03/01/2020,,HW independent quantization on Xilinx,Matthias Wess,Dominik Dallinger,,,active,3
-96,WP2.1.2,NVIDIA Native Quantization,11/01/2020,,Test Tensor-RT native quantization,Alexander Wendt,Karoline Knoth,,,active,2
-98,WP2.1.3,Intel Native Quantization,10/01/2020,,Test OpenVino native quantization,Alexander Wendt,Julian Westra,,,active,2
-100,WP2.1.4,Xilinx Quantization Aware Training,10/01/2020,,Tradeoff between slimmable networks and quantization regarding performance loss and latency gain,Matthias Wess,Birgit Schreiber,,,active,1
-107,WP2.2.1,Distiller HW unabhängiges Pruning,03/01/2020,,HW independent pruning through distiller,Matthias Wess,Andreas Glinserer,,,active,3
-110,WP2.2.2,Netzoptimierung durch slimmable Networks,10/01/2020,,Application of slimmable networks on NVIDIA,Matthias Wess,Karoline Knoth,,,active,2
-127,WP2.4.1,Shuntconnections für MobileNet,08/01/2020,,Replace blocks of MobileNet with shunt connections to reduce FLOPS,Bernhard Haas,Bernhard Haas,"D2.4.1.1, D2.4.1.2",,active,1
-130,WP2.4.2,SqueezeNas Modelle trainieren,04/01/2020,,Reimplement SqueezeNAS for semantic segmentation. Compare to Deeplab,Amid Mozelli,,,,active,2
-134,WP2.4.3,Gemeinsamer Backbone für semantic und instance Segmentation,09/01/2020,,Use common MobileNet Backbone for both detection and segmentation,Alexander Wendt,Helmuth Breitenfellner,,,active,3
-143,WP2.5.1,Trainingsserver EDA01 einrichten,05/01/2020,,Get the training server ready for Pytorch and TF2,Amid Mozelli,,,,active,2
-148,WP2.5.2,Externes Training einrichten,10/01/2020,,Access to Amazon AWS and Vienna Scientific Cluster for training,Amid Mozelli,,,,active,2
-152,WP2.5.3,Messdatenbank für Messungen im Labor einrichten,,,Collect all measurements from devices,Alexander Wendt,,,,open,3
-157,WP2.5.4,EML-Prozess automatisieren und vereinfachen,,,Automate manual inference steps,Alexander Wendt,,,,open,3
-162,WP2.5.5,Applikation: Traffic Light System,03/01/2020,,"Find best combination of HW device and network MobileNet, EfficientDet and Yolo for a pedestrian detection application",Alexander Wendt,,,,active,2
-167,WP2.5.6,Applikation: Ragweederkennung über eine Drohne,08/01/2020,,Recognize Ragweed from a drone. Optimize Network on NVIDIA devices,Alexander Wendt,Lukas Steindl,,,active,3
-175,WP2.5.7,Applikation: Minicar Demonstrator,01/01/2020,,Minicar demonstrator for execution of detection networks on Raspberry Pi,Matvey Ivanov,Matvey Ivanov,D2.5.7,"Repository, Model car, Master thesis",active,3
-180,WP2.5.8,Applikation: TFLite Netz auf einem Handy,10/01/2020,,Mobile phone demonstrator for detection,Alexander Wendt,Thomas Kotrba,,,active,3
+WP ID,Title,Start Date,Escpected End,Description,Responsible,Student,Result,Deliver.,Progress,State,Prio
+WP1.1,"Create estimations for lat, throughput, power, energy, acc, resources",,,"Create estimations for lat, throughput, power, energy, acc, resources",,,,,,,
+WP1.1.1,State of the Art Latency und Power Estimation Modelle aufsetzen,09/01/2020,10/30/2020,Setup Neural Power latency and power estimation model,Marco Wuschnig,,Publication,D1.1.1,1,completed,
+WP1.1.2,Estimator Blackthorn for Latency (NVIDIA),10/01/2019,02/28/2021,Model based latency estimator method,Martin Lechner,Martin Lechner,"Repository, Publication",D1.1.2,0.811111111111111,active,1
+WP1.1.3,"Estimator method ANETTE for Latency (Intel, ARM, Xilinx)",10/01/2019,02/28/2021,Statistic and model based latency estimator method  ,Matthias Wess,Matthias Wess,"Repository, Publication",D1.1.3,0.54,active,1
+WP1.1.4,Estimation of Power through a White box model,08/01/2020,10/30/2020,Power estimation through circuit simulator,Christian Krieg,,,,0.2,paused,3
+WP1.1.5,Estimation of Power through ANETTE,,,Power estimation through the estimator ANNETTE,Matthias Wess,,,,0,open,2
+WP1.1.6,Estimation of On-Chip Resources,,,Estimate resources like memory usage,Martin Lechner,,,,0,open,3
+WP1.2,Optimize HW Dependent Settings,,,Optimize HW Dependent Settings,,,,,,,
+WP1.2.1,NVIDIA Profiling,03/01/2020,03/31/2021,"HW settings profiling of NVIDIA Xavier, Jetson Nano (Bachelor thesis) and TX2",Stephan Holly,Stephan Holly,"Bachelor thesis, Publication, Documentation",D1.2.1,0.355555555555556,active,1
+WP1.2.2,ARM Profiling,11/01/2020,02/28/2021,HW settings profiling of Raspberry Pi,Matvey Ivanov,,"Repository, Document",D1.2.2,0.46,active,1
+WP1.2.3,Xilinx Profiling,11/01/2020,,HW settings profiling of Xilinx ZCU102,Marco Wuschnig,,,,0.04,active,1
+WP1.2.4,Intel Profiling,10/01/2019,03/31/2020,HW settings profiling of Intel NCS2 and CPU through OpenVino,Matvey Ivanov,,,,0.355555555555556,active,3
+WP1.3,Map Models of hardware,,,Map Models of hardware,,,,,,,
+WP1.3.1,Gemeinsame Infrastruktur Hardwareschnittstelle,,,Common software interfaces for devices,Marco Wuschnig,,,,0.15,open,3
+WP1.3.2,Inferenz an NVIDIA Hardware ermöglichen,03/01/2020,03/31/2020,"Inference on Nano, TX2 and Xavier",Amid Mozelli,,"Document, repository",D1.3.2,0.125,active,1
+WP1.3.3,Inferenz an Intelgeräte ermöglichen,10/01/2019,,Inference on NUC and NCS2,Matvey Ivanov,,,,0.9125,active,2
+WP1.3.4,Inferenz an ARM ermöglichen,10/01/2020,,Inference on Raspberry Pi,Matvey Ivanov,,,,0.1,active,1
+WP1.3.5,Inferenz an Xilinx ermöglichen,10/01/2020,,Inference on Xilinx ZCU102,Marco Wuschnig,,,,0.15,active,1
+WP1.3.6,Powermessungen für NCS2 und NVIDIA ermöglichen,07/01/2020,,Allow power measurements for common HW,Matvey Ivanov,,,,0.0875,active,2
+WP1.3.7,,,03/31/2021,Demonstration and documentation,Alexander Wendt,,"Document, validation networks",D1.3.7,0,open,3
+WP2.1,Quantization,,,Quantization,,,,,,,
+WP2.1.1,HW unabhängige Quantization,03/01/2020,,HW independent quantization on Xilinx,Matthias Wess,Dominik Dallinger,,,0.4,active,3
+WP2.1.2,NVIDIA Native Quantization,11/01/2020,,Test Tensor-RT native quantization,Alexander Wendt,Karoline Knoth,Document,D2.1.2,0,active,2
+WP2.1.3,Intel Native Quantization,10/01/2020,,Test OpenVino native quantization,Alexander Wendt,Julian Westra,Document,D2.1.3,0,active,2
+WP2.1.4,One-shot Quantizeable Slimmable Adaptive Networks on Xilinx,10/01/2020,07/30/2021,Tradeoff between slimmable networks and quantization regarding performance loss and latency gain,Matthias Wess,Birgit Schreiber,"Repositor, Master Thesis",D2.1.4,0.1,active,1
+WP2.2,Pruning,,,Pruning,,,,,,,
+WP2.2.1,Distiller HW unabhängiges Pruning,03/01/2020,,HW independent pruning through distiller,Martin Lechner,Andreas Glinserer,"Thesis, Publication, Repository",D2.2.1,0.666666666666667,active,3
+WP2.2.2,Netzoptimierung durch slimmable Networks,10/01/2020,,Application of slimmable networks MobileNet on NVIDIA,Matthias Wess,Karoline Knoth,"Document, repository",D2.2.2,0.0375,active,2
+WP2.3,Factorization,,,Factorization,,,,,,,
+WP2.4,Compact Design,,,Compact Design,,,,,,,
+WP2.4.1,Shuntconnections für MobileNet,08/01/2020,02/28/2020,Replace blocks of MobileNet with shunt connections to reduce FLOPS,Bernhard Haas,Bernhard Haas,"Publication, Master Thesis, Repository",D2.4.1,0.783333333333333,active,1
+WP2.4.2,SqueezeNas Modelle trainieren,04/01/2020,,Reimplement SqueezeNAS for semantic segmentation. Compare to Deeplab,Amid Mozelli,,"Document, Repository",D2.4.2,0.85,active,2
+WP2.4.3,Common Backbone for semantic and instance Segmentation,09/01/2020,,Use common MobileNet Backbone for both detection and segmentation,Alexander Wendt,Helmuth Breitenfellner,"Thesis, repository",D2.4.3,0.3,active,3
+WP2.4.4,Comparison of YoloV3 vs. YoloV4 on a Xilinx,03/01/2021,08/31/2021,Comparison of YoloV3 vs. YoloV4 on a Xilinx,Martin Lechner,Fabian Scherer,,,0,paused,3
+WP2.5,Optimization Strategy,,,Optimization Strategy,,,,,,,
+WP2.5.1,Trainingsserver EDA01 einrichten,05/01/2020,01/31/2021,Get the training server ready for Pytorch and TF2,Amid Mozelli,,Document,D2.5.1,0.96,active,2
+WP2.5.2,Externes Training einrichten,10/01/2020,04/30/2021,Access to Amazon AWS and Vienna Scientific Cluster for training,Amid Mozelli,,Document,D2.5.2,0.4,active,2
+WP2.5.3,Messdatenbank für Messungen im Labor einrichten,,,Collect all measurements from devices,Alexander Wendt,,,,0,open,3
+WP2.5.4,EML-Prozess automatisieren und vereinfachen,,,Automate manual inference steps,Alexander Wendt,,,,0,open,3
+WP2.5.5,Applikation: Traffic Light System,03/01/2020,,"Traffic Light System: Find best combination of HW device and network MobileNet, EfficientDet and Yolo for a pedestrian detection application",Alexander Wendt,Julian Westra,Document,D2.5.5,0.133333333333333,active,2
+WP2.5.6,Applikation: Ragweederkennung über eine Drohne,08/01/2020,,Recognize Ragweed from a drone. Optimize Network on NVIDIA devices,Alexander Wendt,Lukas Steindl,Document,D2.5.6,0.453333333333333,active,3
+WP2.5.7,Applikation: Minicar Demonstrator,01/01/2020,,Minicar demonstrator for execution of detection networks on Raspberry Pi,Matvey Ivanov,Matvey Ivanov,"Repository, Model car, Bachelor Thesis",D2.5.7,0.933333333333333,active,3
+WP2.5.8,Applikation: TFLite Netz auf einem Handy,10/01/2020,,Mobile phone demonstrator for detection,Alexander Wendt,Thomas Kotrba,"Document, SW package",D2.5.8,0.0333333333333333,active,3
