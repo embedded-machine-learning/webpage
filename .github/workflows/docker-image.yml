@@ -25,7 +25,7 @@ jobs:
     - name: bibetextmake
       run: docker run -v ${PWD}:/data bib sh ./data/publist.sh
     - name: csvmake
-      run: docker run -v ${PWD}:/data bib xlsx2csv -i -n Work_Progress ./data/_data/CDLEML_WP_Progress_EML-Process.xlsx ./data/_data/WorkProgress.csv
+      run: docker run -v ${PWD}:/data bib sh ./data/mkWorkProgresscsv.sh 
     - name: commit
       run: ls -la _includes
     - name: Commit files
