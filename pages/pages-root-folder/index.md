@@ -59,7 +59,7 @@ The CD-Lab is formed by five partners:
 <a href="http://www.tugraz.at" target="_blank">TU Graz</a></p>
   </li>
   <li>
-    <p><a href="https://new.siemens.com/at" target="_blank">Siemens Austria AG</a></p>
+    <p><a href="https://new.siemens.com/at/de/unternehmen/innovationen/forschung-und-entwicklung-in-oesterreich.html" target="_blank">Siemens Austria AG</a></p>
   </li>
   <li>
     <p><a href="https://www.mission-embedded.com" target="_blank">Mission Embedded</a></p>
