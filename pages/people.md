@@ -240,13 +240,13 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
-        <div class="large-2 columns">
+        <!--<div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/290468?locale=de">
             <img src="{{ site.urlimg }}/people/person.jpg">
             Bernhard Haas
             <br>(TU Wien)
             </a>
-        </div>
+        </div>-->
         <div class="large-2 columns">
         </div>
     </div>
@@ -262,4 +262,5 @@ Dominik Dallinger (TU Wien)<br>
 Stephan Holly (TU Wien)<br>
 Lukas Steindl (TU Wien)<br>
 Helmuth Breitenfellner (TU Wien)<br>
+Bernhard Haas (TU Wien)<br>
 
