@@ -128,6 +128,10 @@ permalink: /people/
             </a>
         </div>
         <div class="small-6 columns">
+            <a href="https://graz.pure.elsevier.com/de/persons/muhammad-jehanzeb-mirza">
+            <img src="{{ site.urlimg }}/people/person.jpg">
+            Jehanzeb Mirza 
+            <br>(TU Graz)
         </div>
     </div>
 </div>
