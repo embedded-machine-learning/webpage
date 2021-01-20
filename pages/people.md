@@ -121,17 +121,13 @@ permalink: /people/
     </div>
     <div class="row">
         <div class="small-6 columns">
-            <a href="https://tiss.tuwien.ac.at/person/290468?locale=de">
-            <img src="{{ site.urlimg }}/people/person.jpg">
-            Bernhard Haas
-            <br>(TU Wien)
-            </a>
-        </div>
-        <div class="small-6 columns">
             <a href="https://graz.pure.elsevier.com/de/persons/muhammad-jehanzeb-mirza">
             <img src="{{ site.urlimg }}/people/person.jpg">
             Jehanzeb Mirza 
             <br>(TU Graz)
+            </a>
+        </div>
+        <div class="small-6 columns">
         </div>
     </div>
 </div>
@@ -252,6 +248,11 @@ permalink: /people/
             </a>
         </div>-->
         <div class="large-2 columns">
+            <a href="https://graz.pure.elsevier.com/de/persons/muhammad-jehanzeb-mirza">
+            <img src="{{ site.urlimg }}/people/person.jpg">
+            Jehanzeb Mirza 
+            <br>(TU Graz)
+            </a>
         </div>
     </div>
   
@@ -267,4 +268,6 @@ Stephan Holly (TU Wien)<br>
 Lukas Steindl (TU Wien)<br>
 Helmuth Breitenfellner (TU Wien)<br>
 Bernhard Haas (TU Wien)<br>
+Karoline Knoth (TU Wien)<br>
+Birgit Schreiber (TU Wien)<br>
 
