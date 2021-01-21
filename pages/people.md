@@ -240,13 +240,6 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
-        <!--<div class="large-2 columns">
-            <a href="https://tiss.tuwien.ac.at/person/290468?locale=de">
-            <img src="{{ site.urlimg }}/people/person.jpg">
-            Bernhard Haas
-            <br>(TU Wien)
-            </a>
-        </div>-->
         <div class="large-2 columns">
             <a href="https://graz.pure.elsevier.com/de/persons/muhammad-jehanzeb-mirza">
             <img src="{{ site.urlimg }}/people/person.jpg">
