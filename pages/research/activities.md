@@ -9,7 +9,7 @@ permalink: "/research/activities/"
 
 [//]: # Good guide for reading csv files: https://jekyllrb.com/tutorials/csv-to-table/
 
-{% assign StatusList = "completed,active,open,cancelled" | split: "," %}
+{% assign StatusList = "completed,active,open" | split: "," %}
 
 {% for st in StatusList %}
 ### {{ st | capitalize }} 
