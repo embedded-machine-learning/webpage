@@ -8,19 +8,65 @@ permalink: "/research/results/"
 ---
 
 ### Theses
-### 2020
-Kaleab Alemayehu Kinfu, Lifelong Learning for Autonomous Vehicles: Monocular Depth Estimation, Master thesis
 
-Anam Zahra, Autonomous Vehicle Self-localization in Noisy Environments, Master thesis
+{% assign YearList = "2020" | split: "," %}
 
-Rudolf Wörndle, Continual Domain-Incremental Learning for Object Detection, Master thesis
+{% for year in YearList %}
+### {{ year }} 
 
-Marco Wuschnig, Auswertung verschiedener Methoden der Hyperparameteroptimierung in Machine Learning, Master thesis
+<table>
+  {% for row in site.data.Theses %}
+     {% if forloop.first %}
+	<tr>
+	{% for pair in row %}
+	   {% if pair[0] != "Year" %}
+	      <th>{{ pair[0] }}</th>
+	   {% endif %}
+        {% endfor %}
+	</tr>
+     {% endif %}
 
-Julian Roth, Auswertung von Cloudbasierten Machine Learning Frameworks für Supervised Machine Learning, Master thesis
+     {% if row["Year"] == year %}
+        <tr>
+        {% for pair in row %}
+	   {% if pair[0] != "Year" %}
+	   	 <td>{{ pair[1] }}</td>
+	   {% endif %}
+        {% endfor %}
+        </tr>
 
+     {% endif %}    
+  {% endfor %}
+  
+</table>
+{% endfor %}
 
 ### Software
+
+<table>
+  {% for row in site.data.Software %}
+     {% if forloop.first %}
+	<tr>
+	{% for pair in row %}
+	      <th>{{ pair[0] }}</th>
+        {% endfor %}
+	</tr>
+     {% endif %}
+
+     <tr>
+     {% for pair in row %}
+     	     {% if pair[0] == "Link" %}
+	     	   <td> <a href="{{ pair[1] }}">{{ pair[1] }}</a> </td>
+	     {% else %}
+	     	   <td> {{ pair[1] }}</td>
+	     {% endif %}
+     {% endfor %}
+     </tr>
+
+  {% endfor %}
+  
+</table>
+
 
 ### Publications
 
