@@ -1,0 +1,22 @@
+---
+layout: page
+# subheadline:  "...and it works"
+title:  "DNN Execution Time Estimation"
+teaser: "The now Open Source Framework ANNETTE allows predicting the execution time of a CNN on different inference platforms."
+categories:
+ - Code
+tags:
+ - Code
+ - Open Source
+header: no
+image:
+ thumb: posts/annette_logo.png
+ title: posts/annette_banner.png
+ caption: ANNETTE - Accurate Neural Network ExecuTion Time Estimation
+ caption_url: https://github.com/embedded-machine-learning/annette
+
+---
+With new accelerator hardware for Deep Neural Networks (DNNs), the computing power for Artificial Intelligence (AI) applications has increased rapidly. However, as DNN algorithms become more complex and optimized for specific applications, latency requirements remain challenging, and it is critical to find the optimal points in the design space. To decouple the architectural search from the target hardware, we propose a time estimation framework that allows for modeling the inference latency of DNNs on hardware accelerators based on mapping and layer-wise estimation models. The proposed methodology extracts a set of models from micro-kernel and multi-layer benchmarks and generates a stacked model for mapping and network execution time estimation. We compare estimation accuracy and fidelity of the generated mixed models, statistical models with the roofline model, and a refined roofline model for evaluation. We test the mixed models on the ZCU102 SoC board with Xilinx Deep Neural Network Development Kit (DNNDK) and Intel Neural Compute Stick 2 (NCS2) on a set of 12 state-of-the-art neural networks. It shows an average estimation error of 3.47% for the DNNDK and 7.44% for the NCS2, outperforming the statistical and analytical layer models for almost all selected networks. For a randomly selected subset of 34 networks of the NASBench dataset, the mixed model reaches fidelity of 0.988 in Spearman's ρ rank correlation coefficient metric.
+
+<a href="https://github.com/embedded-machine-learning/annette">GitHub Repository</a><br>
+<a href="https://ieeexplore.ieee.org/abstract/document/9306831">Paper</a>
