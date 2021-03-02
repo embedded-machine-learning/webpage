@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: header-new.jpg
+sidebar: right
   
 
 widget1:
@@ -18,9 +19,10 @@ widget2:
   url: '/research/'
   text: 'The Christian Doppler laboratory for Embedded Machine Learning conducts research on Deep Neural Network (DNN) based machine learning in resource constrained embedded devices.'
 widget3:
-  title: "People"
-  url: '/people/'
-  text: 'These are the people in the lab'
+  title: "Demonstrator"
+  url: '/design/video/'
+  text: 'Our latest Demonstrator'
+  video: '<a href="/design/video/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
 
 
 #callforaction:
@@ -39,6 +41,14 @@ permalink: /index.html
 homepage: true
 ---
 
+
+
+
+
+<br>
+<div class="show-for-small">
+<div class="row">
+  <div class="small-8 columns">
 <br>
 A Christian Doppler Laboratory (CD-Lab) is funded in equal parts by the Christian Doppler Gesellschaft and by the industry partners. It combines basic and applied research to further the field and leverage the strengths of the industrial partners to help them staying at the cutting edge in their domains. The planned duration of the CD-Lab is seven years, October 2019 - September 2026.
 
@@ -47,8 +57,12 @@ Our scope is the mapping process of articfcial Neural Networks (NN) onto embedde
   - analyze and compare implementations of a given NN on various target platforms
   - select NN variants and transform and optimize them for a given target platforms
   - develop methods for dynamic on-line learning methods in embedded systems
+<br>
+<br>
 
 The CD-Lab is formed by five partners:
+<br>
+<br>
 <ul>
   <li>
     <p><a href="http://www.ict.tuwien.ac.at" target="_blank">Institute of Computer Technology</a> at
@@ -68,3 +82,72 @@ The CD-Lab is formed by five partners:
     <p><a href="http://www.avl.com" target="_blank">AVL</a></p>
   </li>
 </ul>
+
+  </div>
+  <div class="small-4 columns">
+      <aside>
+	<div class="panel radius">
+		<h3>Visit Us</h3>
+		<p>
+			<a href="https://github.com/embedded-machine-learning">Our GitHub Repositories</a><br>
+			<a href="https://github.com/embedded-machine-learning/annette">ANNETTE</a><br>
+			<a href="https://github.com/embedded-machine-learning/scripts-and-guides">Scripts and Guides by CDL EML</a>
+		</p>
+	</div>
+</aside>
+  </div>
+</div>
+</div>
+
+<div class="show-for-large-up">
+<div class="row">
+  <div class="large-8 columns">
+A Christian Doppler Laboratory (CD-Lab) is funded in equal parts by the Christian Doppler Gesellschaft and by the industry partners. It combines basic and applied research to further the field and leverage the strengths of the industrial partners to help them staying at the cutting edge in their domains. The planned duration of the CD-Lab is seven years, October 2019 - September 2026.
+
+Our scope is the mapping process of articfcial Neural Networks (NN) onto embedded platforms with tight resource constraints. We develop neither new NN architectures nor new hardware platforms or hardware devices, but we use state of the art NNs and platforms and
+  - estimate latency, throughput, resource usage, and power consumption
+  - analyze and compare implementations of a given NN on various target platforms
+  - select NN variants and transform and optimize them for a given target platforms
+  - develop methods for dynamic on-line learning methods in embedded systems
+<br>
+<br>
+
+The CD-Lab is formed by five partners:
+<br>
+<br>
+<ul>
+  <li>
+    <p><a href="http://www.ict.tuwien.ac.at" target="_blank">Institute of Computer Technology</a> at
+<a href="http://www.tuwien.ac.at/en" target="_blank">TU Wien</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.icg.tugraz.at" target="_blank">Institute for Computer Graphics and Vision</a> (ICG) at
+<a href="http://www.tugraz.at" target="_blank">TU Graz</a></p>
+  </li>
+  <li>
+    <p><a href="https://new.siemens.com/at/de/unternehmen/innovationen/forschung-und-entwicklung-in-oesterreich.html" target="_blank">Siemens Austria AG</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.mission-embedded.com" target="_blank">Mission Embedded</a></p>
+  </li>
+  <li>
+    <p><a href="http://www.avl.com" target="_blank">AVL</a></p>
+  </li>
+</ul>
+
+  </div>
+  <div class="large-4 columns">
+      <aside>
+	<div class="panel radius">
+		<h3>Visit Us</h3>
+		<p>
+			<a href="https://github.com/embedded-machine-learning">Our GitHub Repositories</a><br>
+			<a href="https://github.com/embedded-machine-learning/annette">ANNETTE</a><br>
+			<a href="https://github.com/embedded-machine-learning/scripts-and-guides">Scripts and Guides by CDL EML</a>
+		</p>
+	</div>
+</aside>
+  </div>
+</div>
+</div>
+
