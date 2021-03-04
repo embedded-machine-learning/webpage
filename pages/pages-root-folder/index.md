@@ -19,10 +19,10 @@ widget2:
   url: '/research/'
   text: 'The Christian Doppler laboratory for Embedded Machine Learning conducts research on Deep Neural Network (DNN) based machine learning in resource constrained embedded devices.'
 widget3:
-  title: "Demonstrator"
+  title: "Model Car with Intel NPU"
   url: '/design/video/'
   text: 'Our latest Demonstrator'
-  video: '<a href="/design/video/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
+  video: '<a href="/design/demonstrator/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
 
 
 #callforaction:

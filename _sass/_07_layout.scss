@@ -24,8 +24,8 @@
 ------------------------------------------------------------------- */
 
 body.video,
-body.video #masthead-no-image-header { background: #000; }
-body.video #masthead-no-image-header { margin-bottom: 60px; }
+body.video #masthead { background: #fff; }
+body.video #masthead { margin-bottom: 60px; }
 body.video h1,
 body.video h2,
 body.video h3,
@@ -36,9 +36,9 @@ body.video p,
 body.video a,
 body.video blockquote:before,
 body.video blockquote:after,
-body.video cite a, { color: #fff; }
-body.video cite a:visited, { color: #fff; }
-body.video cite { color: #fff; }
+body.video cite a, { color: #000; }
+body.video cite a:visited, { color: #000; }
+body.video cite { color: #000; }
 
 
 
