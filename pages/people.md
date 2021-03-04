@@ -247,6 +247,8 @@ permalink: /people/
             <br>(TU Graz)
             </a>
         </div>
+        <div class="large-2 columns">
+        </div>
     </div>
   
 </div>
