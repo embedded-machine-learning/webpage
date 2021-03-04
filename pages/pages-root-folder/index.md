@@ -11,18 +11,17 @@ sidebar: right
   
 
 widget1:
-  title: "Blog"
-  url: '/blog/'
-  text: 'Read about our latest news, stories, publications and guides.'
+  title: "Model Car with NPU"
+  url: '/design/video/'
+  video: '<a href="/design/demonstrator/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Research"
   url: '/research/'
   text: 'The Christian Doppler laboratory for Embedded Machine Learning conducts research on Deep Neural Network (DNN) based machine learning in resource constrained embedded devices.'
 widget3:
-  title: "Model Car with Intel NPU"
-  url: '/design/video/'
-  text: 'Our latest Demonstrator'
-  video: '<a href="/design/demonstrator/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
+  title: "Blog"
+  url: '/blog/'
+  text: 'Read about our latest news, stories, publications and guides.'
 
 
 #callforaction:
@@ -44,7 +43,7 @@ homepage: true
 
 
 
-
+<h1>About us</h1>
 <br>
 <div class="show-for-small">
 <div class="row">
@@ -87,7 +86,7 @@ The CD-Lab is formed by five partners:
   <div class="small-4 columns">
       <aside>
 	<div class="panel radius">
-		<h3>Visit Us</h3>
+		<h3>Visit us</h3>
 		<p>
 			<a href="https://github.com/embedded-machine-learning">Our GitHub Repositories</a><br>
 			<a href="https://github.com/embedded-machine-learning/annette">ANNETTE</a><br>
@@ -139,7 +138,7 @@ The CD-Lab is formed by five partners:
   <div class="large-4 columns">
       <aside>
 	<div class="panel radius">
-		<h3>Visit Us</h3>
+		<h3>Visit us</h3>
 		<p>
 			<a href="https://github.com/embedded-machine-learning">Our GitHub Repositories</a><br>
 			<a href="https://github.com/embedded-machine-learning/annette">ANNETTE</a><br>
