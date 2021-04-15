@@ -1,2 +1,3 @@
 Title,Description,Link
 Embedded Machine Learning Scripts and Guides,We collect scripts and guides that help us in our everyday work to setup software and frameworks. This repository is also the source of an EML Toolbox that aims to easyily implement machine learning toolchains.,https://github.com/embedded-machine-learning/scripts-and-guides
+ANNETTE - Accurate Neural Network Execution Time Estimation,The ANNETTE Framework allows prediction of execution time estimation for neural networks based on a stacked modelling approach,https://github.com/embedded-machine-learning/annette
