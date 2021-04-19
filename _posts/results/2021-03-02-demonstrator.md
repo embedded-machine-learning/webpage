@@ -2,12 +2,11 @@
 layout: video
 show_meta: false
 title: "RC Model Car"
-subheadline: ""
 teaser: "using a Intel Neural Compute Stick 2 for Object Detection and Classification"
 tags:
-    - post format
+ - Demonstator
 categories:
-    - design
+ - Thesis
 iframe: "<iframe src='//player.vimeo.com/video/516695520?embedparameter=value' width='970' height='546' frameborder='0' allowfullscreen></iframe>"
 #iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
 #

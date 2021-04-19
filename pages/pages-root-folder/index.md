@@ -13,7 +13,7 @@ sidebar: right
 widget1:
   title: "Model Car with NPU"
   url: '/design/video/'
-  video: '<a href="/design/demonstrator/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
+  video: '<a href="/thesis/demonstrator/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Research"
   url: '/research/'
