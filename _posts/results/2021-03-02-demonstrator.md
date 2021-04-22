@@ -11,7 +11,7 @@ iframe: "<iframe src='//player.vimeo.com/video/516695520?embedparameter=value' w
 #iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
-# is SEO, so that videos show up in Google hopefully with a 
+# is SEO, so that videos show up in Google hopefully with a
 # thumbnail.
 # More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
 #
@@ -43,7 +43,7 @@ The RPi4 sends images from a camera to the NCS2, which returns the probabilites 
 
 The Demonstrator can be remotely controlled via the keyboard in the browser.
 The neural network Yolov3-tiny is responsible for object detection and runs at a frame rate of around 12 fps, while utilizing the Openvino API for inference.
- 
+
 <div class="row">
   <img src="../../images/posts/demonstrator_webstream_flow.png" width="600"/>
 </div>
