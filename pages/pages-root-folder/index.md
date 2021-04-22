@@ -17,7 +17,7 @@ widget1:
 widget2:
   title: "DNN Power Visualization"
   url: '/thesis/tinyv3-poweranalysis/'
-  video: '<a href="/thesis/tinyv3-poweranalysis/" data-reveal-id="videoModal"><img src="/mages/posts/yolov3-tiny_animation4_x50.gif" width="302" height="182" alt=""/></a>'
+  video: '<a href="/thesis/tinyv3-poweranalysis/" data-reveal-id="videoModal"><img src="/images/posts/yolov3-tiny_animation4_x50.gif" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Blog"
   url: '/blog/'
