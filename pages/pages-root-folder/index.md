@@ -12,12 +12,12 @@ sidebar: right
 
 widget1:
   title: "Model Car with NPU"
-  url: '/design/video/'
+  url: '/thesis/demonstrator/'
   video: '<a href="/thesis/demonstrator/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
 widget2:
-  title: "Research"
-  url: '/research/'
-  text: 'The Christian Doppler laboratory for Embedded Machine Learning conducts research on Deep Neural Network (DNN) based machine learning in resource constrained embedded devices.'
+  title: "DNN Power Visualization"
+  url: '/thesis/tinyv3-poweranalysis/'
+  video: '<a href="/thesis/tinyv3-poweranalysis/" data-reveal-id="videoModal"><img src="/images/posts/yolov3-tiny_animation4_x50.gif" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Blog"
   url: '/blog/'

@@ -10,7 +10,7 @@ iframe: "<iframe src='//player.vimeo.com/video/537297367?embedparameter=value' w
 #iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/WoHxoz_0ykI' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
-# is SEO, so that videos show up in Google hopefully with a 
+# is SEO, so that videos show up in Google hopefully with a
 # thumbnail.
 # More › https://developers.google.com/webmasters/videosearch/schema?hl=en&rd=1
 #
@@ -27,3 +27,7 @@ video:
 <!--more-->
 
 Evaluating a neural network in terms of accuracy is widely supported in all machine learning frameworks. The power draw which is an important aspect in the operation of machine learning accelerators on the edge, such as an NCS2, is rarely evaluated. In the animation we can see how the power draw changes over time during the execution of a state-of-the-art Yolov3-tiny. The data was gathered using a method developed in the EML laboratory with the prospect of extending it to other platforms and networks.
+
+<div class="row">
+  <img src="../../images/posts/yolov3-tiny_animation4_x50.gif" width="600"/>
+</div>
