@@ -29,7 +29,9 @@ permalink: "/research/results/"
      {% if row["Year"] == year %}
         <tr>
         {% for pair in row %}
-	   {% if pair[0] != "Year" %}
+	   {% if pair[0] == "Link" %}
+	   	 <td><a href="{{ pair[1] }}">{{ pair[1] }}</a> </td>
+	   {% elsif pair[0] != "Year" %}
 	   	 <td>{{ pair[1] }}</td>
 	   {% endif %}
         {% endfor %}
