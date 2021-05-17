@@ -2,3 +2,4 @@ Title,Description,Link
 Embedded Machine Learning Scripts and Guides,We collect scripts and guides that help us in our everyday work to setup software and frameworks. This repository is also the source of an EML Toolbox that aims to easyily implement machine learning toolchains.,https://github.com/embedded-machine-learning/scripts-and-guides
 ANNETTE,Accurate Neural Network Execution Time Estimation,https://github.com/embedded-machine-learning/annette
 Re-Implementation of SqueezeNas,SqueezeNAS Repository with reimplementation for a custom semenatic segementation task,https://github.com/embedded-machine-learning/squeezenas_train
+EML Mobile Phone Photo Detection Application,A mobile phone application for applying detection networks on captured fotos and camera streams,https://github.com/embedded-machine-learning/eml-mobile-photo-app
