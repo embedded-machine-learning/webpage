@@ -19,8 +19,7 @@ iframe: "<iframe src='//player.vimeo.com/video/516695520?embedparameter=value' w
 # contentURL – A URL pointing to the actual video media file
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
-image:
- thumb: "https://i.vimeocdn.com/video/1069895775_640x360.jpg"
+
 video:
     embedURL: "https://player.vimeo.com/video/516695520?embedparameter=value"
     contentURL: "https://vimeo.com/516695520"
