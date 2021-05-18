@@ -9,4 +9,8 @@ matthias: # replace this with your info
   name: "Matthias Wess"
   siterole: "webmaster, developer, copywriter, designer"
   email: matthias.wess@tuwien.ac.at
+thomas: # replace this with your info
+  name: "Thomas Kotrba"
+  siterole: "developer, copywriter"
+  email: thomas.kotrba@tuwien.ac.at
 # you can add more authors here
