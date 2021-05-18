@@ -11,11 +11,11 @@ sidebar: right
   
 
 widget1:
-  title: "Model Car with NPU"
+  title: "RC Demonstrator Car with NPU"
   url: '/thesis/demonstrator/'
   video: '<a href="/thesis/demonstrator/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
 widget2:
-  title: "DNN Power Visualization"
+  title: "Visualizing DNN power consumption"
   url: '/thesis/tinyv3-poweranalysis/'
   video: '<a href="/thesis/tinyv3-poweranalysis/" data-reveal-id="videoModal"><img src="/images/posts/yolov3-tiny_animation4_x50.gif" width="302" height="182" alt=""/></a>'
 widget3:
@@ -90,7 +90,8 @@ The CD-Lab is formed by five partners:
 		<p>
 			<a href="https://github.com/embedded-machine-learning">Our GitHub Repositories</a><br>
 			<a href="https://github.com/embedded-machine-learning/annette">ANNETTE</a><br>
-			<a href="https://github.com/embedded-machine-learning/scripts-and-guides">Scripts and Guides by CDL EML</a>
+			<a href="https://github.com/embedded-machine-learning/eml-mobile-photo-app">EML Object Detection Android App</a><br>
+			<a href="https://github.com/embedded-machine-learning/scripts-and-guides">Scripts and Guides by CDL EML</a><br>
 		</p>
 	</div>
 </aside>
@@ -142,7 +143,8 @@ The CD-Lab is formed by five partners:
 		<p>
 			<a href="https://github.com/embedded-machine-learning">Our GitHub Repositories</a><br>
 			<a href="https://github.com/embedded-machine-learning/annette">ANNETTE</a><br>
-			<a href="https://github.com/embedded-machine-learning/scripts-and-guides">Scripts and Guides by CDL EML</a>
+			<a href="https://github.com/embedded-machine-learning/eml-mobile-photo-app">EML Object Detection Android App</a><br>
+			<a href="https://github.com/embedded-machine-learning/scripts-and-guides">Scripts and Guides by CDL EML</a><br>
 		</p>
 	</div>
 </aside>
