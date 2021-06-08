@@ -251,7 +251,6 @@ Andreas Glinserer (TU Wien)<br>
 Dominik Dallinger (TU Wien)<br>
 Lukas Steindl (TU Wien)<br>
 Helmuth Breitenfellner (TU Wien)<br>
-Bernhard Haas (TU Wien)<br>
 Karoline Knoth (TU Wien)<br>
 Birgit Schreiber (TU Wien)<br>
 

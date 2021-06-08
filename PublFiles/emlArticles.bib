@@ -10,7 +10,7 @@
   journal = {ACM Transactions on Cyber-Physical Systems},
   title = {Self-aware Cyber-Physical Systems},
   year = 2020,
-  key = {selfaware,eml},
+  key = {selfaware,eml,cdl},
   pages = {1-24},
   address = {New York, NY, USA},
   volume = {4},
@@ -71,12 +71,23 @@
   title = {Embodied Self-Aware Computing Systems},
   year = 2020,
   pages = {1-20},
-  key = {selfaware,eml},
+  key = {selfaware,eml,cdl},
   keywords = {Control;embedded systems (ESs);machine learning
 		  (ML);self-aware computing.},
   doi = {10.1109/JPROC.2020.2977054},
   issn = {1558-2256},
   url = {http://jantsch.se/AxelJantsch/papers/2020/HankHoffmann-IEEEProceedings.pdf}
+}
+
+@article{mozelli:2021a,
+  author = {Amid Mozelli and Nima Taherinejad and Axel Jantsch},
+  title = {A Study on Confidence: an Unsupervised Multi-Agent Machine
+		  Learning Experiment },
+  journal = {IEEE Design \& Test of Computers },
+  year = 2021,
+  key = {eml,cdl,selfaware},
+  issn = { 2168-2356 },
+  doi = { 10.1109/MDAT.2021.3078341 }
 }
 
 @article{taherinejad:2020a,
@@ -87,32 +98,51 @@
   issn = {2168-2356},
   doi = { 10.1109/MDAT.2020.3024145},
   url = {http://jantsch.se/AxelJantsch/papers/2020/NimaTaherinejad-DesignAndTest.pdf},
-  key = {selfaware,eml},
+  key = {selfaware,eml,cdl},
   pages = {1-1}
 }
 
-@article{wess:2021,
-  author = {M. {Wess} and M. {Ivanov} and C. {Unger} and A. {Nookala} and A. {Wendt} and A. {Jantsch}},
+@article{wess:2021a,
+  author = {M. {Wess} and M. {Ivanov} and C. {Unger} and A. {Nookala}
+		  and A. {Wendt} and A. {Jantsch}},
   journal = {IEEE Access},
-  title = {ANNETTE: Accurate Neural Network Execution Time Estimation With Stacked Models},
-  year = {2021},
-  volume = {9},
-  number = {},
-  pages = {3545-3556},
-  abstract = {With new accelerator hardware for Deep Neural Networks (DNNs), the computing power for Artificial Intelligence (AI) applications has increased rapidly. However, as DNN algorithms become more complex and optimized for specific applications, latency requirements remain challenging, and it is critical to find the optimal points in the design space. To decouple the architectural search from the target hardware, we propose a time estimation framework that allows for modeling the inference latency of DNNs on hardware accelerators based on mapping and layer-wise estimation models. The proposed methodology extracts a set of models from micro-kernel and multi-layer benchmarks and generates a stacked model for mapping and network execution time estimation. We compare estimation accuracy and fidelity of the generated mixed models, statistical models with the roofline model, and a refined roofline model for evaluation. We test the mixed models on the ZCU102 SoC board with Xilinx Deep Neural Network Development Kit (DNNDK) and Intel Neural Compute Stick 2 (NCS2) on a set of 12 state-of-the-art neural networks. It shows an average estimation error of 3.47% for the DNNDK and 7.44% for the NCS2, outperforming the statistical and analytical layer models for almost all selected networks. For a randomly selected subset of 34 networks of the NASBench dataset, the mixed model reaches fidelity of 0.988 in Spearman’s  $\rho $  rank correlation coefficient metric.},
-  keywords = {Hardware;Computational modeling;Estimation;Benchmark testing;Biological system modeling;Computer architecture;Tools;Analytical models;estimation;neural network hardware},
-  doi = {10.1109/ACCESS.2020.3047259},
-  issn = {2169-3536},
-  month = {}
-}
-
-@article{mozelli:2021a,
-  author = {Amid Mozelli and Nima Taherinejad and Axel Jantsch},
-  title = {A Study on Confidence: an Unsupervised Multi-Agent
-                  Machine Learning Experiment },
-  journal = {IEEE Design \& Test of Computers },
+  title = {ANNETTE: Accurate Neural Network Execution Time Estimation
+		  With Stacked Models},
   year = 2021,
-  key = {eml,selfaware},
-  note = {accepted for publication}
+  volume = 9,
+  pages = {3545-3556},
+  key = {eml,cdl},
+  abstract = {With new accelerator hardware for Deep Neural Networks
+		  (DNNs), the computing power for Artificial Intelligence
+		  (AI) applications has increased rapidly. However, as DNN
+		  algorithms become more complex and optimized for specific
+		  applications, latency requirements remain challenging, and
+		  it is critical to find the optimal points in the design
+		  space. To decouple the architectural search from the target
+		  hardware, we propose a time estimation framework that
+		  allows for modeling the inference latency of DNNs on
+		  hardware accelerators based on mapping and layer-wise
+		  estimation models. The proposed methodology extracts a set
+		  of models from micro-kernel and multi-layer benchmarks and
+		  generates a stacked model for mapping and network execution
+		  time estimation. We compare estimation accuracy and
+		  fidelity of the generated mixed models, statistical models
+		  with the roofline model, and a refined roofline model for
+		  evaluation. We test the mixed models on the ZCU102 SoC
+		  board with Xilinx Deep Neural Network Development Kit
+		  (DNNDK) and Intel Neural Compute Stick 2 (NCS2) on a set of
+		  12 state-of-the-art neural networks. It shows an average
+		  estimation error of 3.47% for the DNNDK and 7.44% for the
+		  NCS2, outperforming the statistical and analytical layer
+		  models for almost all selected networks. For a randomly
+		  selected subset of 34 networks of the NASBench dataset, the
+		  mixed model reaches fidelity of 0.988 in Spearman’s $\rho
+		  $ rank correlation coefficient metric.},
+  keywords = {Hardware;Computational modeling;Estimation;Benchmark
+		  testing;Biological system modeling;Computer
+		  architecture;Tools;Analytical models;estimation;neural
+		  network hardware},
+  doi = {10.1109/ACCESS.2020.3047259},
+  issn = {2169-3536}
 }
 
