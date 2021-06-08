@@ -2,6 +2,7 @@
 layout: video
 show_meta: false
 title: "Tiny YoloV3 Power Visualization"
+teaser: "Evaluating a neural network in terms of accuracy is widely supported in all machine learning frameworks. The power draw which is an important aspect in the operation of machine learning accelerators on the edge, such as an NCS2, is rarely evaluated."
 tags:
  - Demonstator
 categories:
@@ -26,7 +27,7 @@ video:
 ---
 <!--more-->
 
-Evaluating a neural network in terms of accuracy is widely supported in all machine learning frameworks. The power draw which is an important aspect in the operation of machine learning accelerators on the edge, such as an NCS2, is rarely evaluated. In the animation we can see how the power draw changes over time during the execution of a state-of-the-art Yolov3-tiny. The data was gathered using a method developed in the EML laboratory with the prospect of extending it to other platforms and networks.
+ In the animation we can see how the power draw changes over time during the execution of a state-of-the-art Yolov3-tiny. The data was gathered using a method developed in the EML laboratory with the prospect of extending it to other platforms and networks.
 
 <div class="row">
   <img src="../../images/posts/yolov3-tiny_animation4_x50.gif" width="600"/>
