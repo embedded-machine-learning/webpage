@@ -171,8 +171,6 @@ permalink: /people/
             </a>
         </div>
         <div class="large-2 columns">
-        </div>
-        <div class="large-2 columns">
             <a href=" https://tiss.tuwien.ac.at/person/179979.html?suchtext=wess">
             <img src="{{ site.urlimg }}/people/MatthiasWess.png">
             Matthias Wess
@@ -199,6 +197,8 @@ permalink: /people/
             Christian Fruhwirth-Reisinger
             <br>(TU Graz) 
             </a>
+        </div>
+        <div class="large-2 columns">
         </div>
     </div>
     <div class="row">
