@@ -48,11 +48,6 @@ permalink: /people/
             </a>
         </div>
         <div class="small-6 columns">
-            <a href=" https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=AA633B1988A31205">
-            <img src="{{ site.urlimg }}/people/MichaelOpitz.png">
-            Michael Opitz
-            <br>(TU Graz)
-            </a>
         </div>
     </div>
     <div class="row">
@@ -176,11 +171,6 @@ permalink: /people/
             </a>
         </div>
         <div class="large-2 columns">
-            <a href=" https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=AA633B1988A31205">
-            <img src="{{ site.urlimg }}/people/MichaelOpitz.png">
-            Michael Opitz
-            <br>(TU Graz)
-            </a>
         </div>
         <div class="large-2 columns">
             <a href=" https://tiss.tuwien.ac.at/person/179979.html?suchtext=wess">
@@ -259,7 +249,6 @@ Anam Zahra (TU Graz)<br>
 Rudolf Wörndle (TU Graz)<br>
 Andreas Glinserer (TU Wien)<br>
 Dominik Dallinger (TU Wien)<br>
-Stephan Holly (TU Wien)<br>
 Lukas Steindl (TU Wien)<br>
 Helmuth Breitenfellner (TU Wien)<br>
 Bernhard Haas (TU Wien)<br>
