@@ -261,3 +261,4 @@ Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
 Anam Zahra (TU Graz, Master)<br>
 Andreas Glinserer (TU Wien, Master)<br>
 Bernhard Haas (TU Wien, Master)<br>
+Michael Optiz (TU Graz, Ph.D)
