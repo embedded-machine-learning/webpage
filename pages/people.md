@@ -244,13 +244,20 @@ permalink: /people/
 </div>
 
 <h2>Affiliated Research Students </h2>
-Alemajehu Kaleab Kinfu (TU Graz)<br>
-Anam Zahra (TU Graz)<br>
-Rudolf Wörndle (TU Graz)<br>
-Andreas Glinserer (TU Wien)<br>
-Dominik Dallinger (TU Wien)<br>
-Lukas Steindl (TU Wien)<br>
-Helmuth Breitenfellner (TU Wien)<br>
-Karoline Knoth (TU Wien)<br>
-Birgit Schreiber (TU Wien)<br>
+Dominik Dallinger (TU Wien, Bachelor)<br>
+Lukas Steindl (TU Wien, Master)<br>
+Helmuth Breitenfellner (TU Wien, Master)<br>
+Birgit Schreiber (TU Wien, Master)<br>
+Thomas Kotrba (TU Wien, Master)<br>
+Jona Heinrichs (TU Wien, Master)<br>
+Julian Westra (TU Wien, Bachelor)<br>
+Nicolas Alge (TU Wien, Bachelor)<br>
+Fabian Scherer (TU Wien, Bachelor)<br>
+Maroun El-Chayeb (TU Wien, Bachelor)<br>
+Rudolf Wörndle (TU Wien, Master)<br>
 
+<h2>Research Students Alumni</h2>
+Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
+Anam Zahra (TU Graz, Master)<br>
+Andreas Glinserer (TU Wien, Master)<br>
+Bernhard Haas (TU Wien, Master)<br>
