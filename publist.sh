@@ -1,7 +1,7 @@
 #!/bin/sh
 
 baseDir=/data
-#baseDir=./
+# baseDir=./
 
 # Publication lists:
 # All entries:
