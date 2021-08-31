@@ -223,18 +223,27 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
-        <div class="large-2 columns">
+        <!-- <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/279146.html?suchtext=mozell">
             <img src="{{ site.urlimg }}/people/AmidMozelli.jpg">
             Amid Mozelli
             <br>(TU Wien)
             </a>
-        </div>
+        </div> -->
         <div class="large-2 columns">
             <a href="https://graz.pure.elsevier.com/de/persons/muhammad-jehanzeb-mirza">
             <img src="{{ site.urlimg }}/people/person.jpg">
             Jehanzeb Mirza 
             <br>(TU Graz)
+            </a>
+        </div>
+        <div class="large-2 columns">
+        </div>
+        <div class="large-2 columns">
+            <a href="https://tiss.tuwien.ac.at/person/291449.html?suchtext=thomas+kotr">
+            <img src="{{ site.urlimg }}/people/ThomasKotrba.jpeg">
+            Thomas Kotrba 
+            <br>(TU Wien)
             </a>
         </div>
         <div class="large-2 columns">
@@ -261,4 +270,5 @@ Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
 Anam Zahra (TU Graz, Master)<br>
 Andreas Glinserer (TU Wien, Master)<br>
 Bernhard Haas (TU Wien, Master)<br>
-Michael Optiz (TU Graz, Ph.D)
+Michael Optiz (TU Graz, Ph.D)<br>
+Amid Mozelli (TU Wien)
