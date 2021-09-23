@@ -253,7 +253,6 @@ permalink: /people/
 </div>
 
 <h2>Affiliated Research Students </h2>
-Dominik Dallinger (TU Wien, Bachelor)<br>
 Lukas Steindl (TU Wien, Master)<br>
 Helmuth Breitenfellner (TU Wien, Master)<br>
 Birgit Schreiber (TU Wien, Master)<br>
@@ -261,14 +260,15 @@ Thomas Kotrba (TU Wien, Master)<br>
 Jona Heinrichs (TU Wien, Master)<br>
 Julian Westra (TU Wien, Bachelor)<br>
 Nicolas Alge (TU Wien, Bachelor)<br>
-Fabian Scherer (TU Wien, Bachelor)<br>
 Maroun El-Chayeb (TU Wien, Bachelor)<br>
 Rudolf Wörndle (TU Wien, Master)<br>
 
 <h2>Research Students Alumni</h2>
+Dominik Dallinger (TU Wien, Bachelor) <a href="https://www.gfz-potsdam.de/startseite/">GeoForschungsZentrum Potsdam</a><br>
 Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
 Anam Zahra (TU Graz, Master)<br>
-Andreas Glinserer (TU Wien, Master)<br>
+Andreas Glinserer (TU Wien, Master)<a href="http://www.eyyes.com/"> EYYES GmbH</a><br>
 Bernhard Haas (TU Wien, Master)<br>
 Michael Optiz (TU Graz, Ph.D)<br>
-Amid Mozelli (TU Wien)
+Fabian Scherer (TU Wien, Bachelor)<br>
+Amid Mozelli (TU Wien) <a href="https://mission-embedded.com/"> Mission Embedded</a>
