@@ -31,7 +31,7 @@ Institute for Computer Graphics and Vision (ICG) at the TU Graz with Prof. Horst
     <img src="{{ site.urlimg }}Siemens.jpg" height="150px">
     </div>
     <div class="large-9 columns"  style="text-align: justify;">
-Siemens is a global powerhouse focusing on the areas of electrification, automation and digitalization. As one of the world’s largest producers of energy-efficient, resource-saving technologies, Siemens is a leading supplier of systems for power generation and transmission as well as medical diagnosis. In infrastructure and industry solutions the company plays a pioneering role. Siemens was founded 1847 by Werner Siemens and Johann Georg Halske. Today, the company has around 377,000 employees worldwide.
+Siemens AG is a technology company focused on industry, infrastructure, transport, and healthcare. From more resource-efficient factories, resilient supply chains, and smarter buildings and grids, to cleaner and more comfortable transportation as well as advanced healthcare, the company creates technology with purpose adding real value for customers. By combining the real and the digital worlds, Siemens empowers its customers to transform their industries and markets, to transform the everyday for billions of people. Founded in 1847 the company today has around 293,000 employees worldwide. 
     </div>
 </div><!-- /.row -->
 <br>
