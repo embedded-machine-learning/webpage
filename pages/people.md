@@ -159,7 +159,7 @@ permalink: /people/
 <div class="show-for-large-up">
     <div class="row">
         <div class="small-12 columns">
-            <h2>Research Staff</h2>
+            <h2>Research Staff & Coordination Staff</h2>
         </div><!-- /.small-12.columns -->
     </div>
     <div class="row">
@@ -217,6 +217,26 @@ permalink: /people/
             </a>
         </div>
         <div class="large-2 columns">
+            <a href="https://tiss.tuwien.ac.at/person/282097.html?suchtext=bittner">
+            <img src="{{ site.urlimg }}/people/MatthiasBittner.png">
+            Matthias Bittner
+            <br>(TU Wien)
+            </a>
+        </div>
+        <div class="large-2 columns">
+            <a href="https://tiss.tuwien.ac.at/person/334964.html?suchtext=Sch%C3%B6fl">
+            <img src="{{ site.urlimg }}/people/CarinaSchoefl.png">
+            Carina Schöfl
+            <br>(TU Wien)
+            </a>
+        </div>
+        <div class="large-2 columns">
+            <a href="https://tiss.tuwien.ac.at/person/297458.html?suchtext=Dominik+Dallinger">
+            <img src="{{ site.urlimg }}/people/DominikDallinger.jpg">
+            <br>(TU Wien)
+            </a>
+        </div>
+        <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/309632.html?suchtext=ivanov">
             <img src="{{ site.urlimg }}/people/MatveyIvanov.png">
             Matvey Ivanov
@@ -251,6 +271,8 @@ permalink: /people/
     </div>
   
 </div>
+
+
 
 <h2>Affiliated Research Students </h2>
 Lukas Steindl (TU Wien, Master)<br>
