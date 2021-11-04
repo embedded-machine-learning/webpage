@@ -237,6 +237,8 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
+    </div>
+    <div class="row">
         <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/309632.html?suchtext=ivanov">
             <img src="{{ site.urlimg }}/people/MatveyIvanov.png">
@@ -258,8 +260,6 @@ permalink: /people/
             <br>(TU Graz)
             </a>
         </div>
-    </div>
-    <div class="row">
         <div class="large-2 columns">
         </div>
         <div class="large-2 columns">
