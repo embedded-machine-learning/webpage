@@ -230,8 +230,6 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
-    </div>
-    <div class="row">
         <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/297458.html?suchtext=Dominik+Dallinger">
             <img src="{{ site.urlimg }}/people/DominikDallinger.jpg">
@@ -260,6 +258,8 @@ permalink: /people/
             <br>(TU Graz)
             </a>
         </div>
+    </div>
+    <div class="row">
         <div class="large-2 columns">
         </div>
         <div class="large-2 columns">
