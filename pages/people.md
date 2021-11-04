@@ -233,6 +233,7 @@ permalink: /people/
         <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/297458.html?suchtext=Dominik+Dallinger">
             <img src="{{ site.urlimg }}/people/DominikDallinger.jpg">
+            Dominik Dallinger
             <br>(TU Wien)
             </a>
         </div>
@@ -279,12 +280,10 @@ Lukas Steindl (TU Wien, Master)<br>
 Helmuth Breitenfellner (TU Wien, Master)<br>
 Birgit Schreiber (TU Wien, Master)<br>
 Thomas Kotrba (TU Wien, Master)<br>
-Jona Heinrichs (TU Wien, Master)<br>
 Julian Westra (TU Wien, Bachelor)<br>
 Nicolas Alge (TU Wien, Bachelor)<br>
 Maroun El-Chayeb (TU Wien, Bachelor)<br>
-Dominik Dallinger (TU Wien, Bachelor)<br>
-Rudolf Wörndle (TU Graz, Master)<br>
+Alon Tchelet (TU Wien, Master)<br> 
 
 
 <h2>Research Students Alumni</h2>
