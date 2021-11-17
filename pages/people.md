@@ -92,7 +92,7 @@ permalink: /people/
         </div>
         <div class="small-6 columns">
             <a href="https://tiss.tuwien.ac.at/person/279134.html?suchtext=wuschnig">
-            <img src="{{ site.urlimg }}/people/person.jpg">
+            <img src="{{ site.urlimg }}/people/MarcoWuschnig.jpg">
             Marco Leber-Wuschning
             <br>(TU Wien)
             </a>
@@ -211,7 +211,7 @@ permalink: /people/
         </div>
         <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/279134.html?suchtext=wuschnig">
-            <img src="{{ site.urlimg }}/people/person.jpg">
+            <img src="{{ site.urlimg }}/people/MarcoWuschnig.jpg">
             Marco Leber-Wuschning
             <br>(TU Wien)
             </a>
