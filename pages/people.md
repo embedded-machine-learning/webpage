@@ -232,7 +232,7 @@ permalink: /people/
         </div>
         <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/240218.html?suchtext=Daniel+schn%C3%B6ll">
-            <img src="{{ site.urlimg }}/people/DanielSchnoell.jpg">
+            <img src="{{ site.urlimg }}/people/DanielSchnoell.jpeg">
             Daniel Schnöll
             <br>(TU Wien)
             </a>
