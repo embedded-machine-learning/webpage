@@ -11,9 +11,9 @@ sidebar: right
   
 
 widget1:
-  title: "RC Demonstrator Car with NPU"
-  url: '/thesis/demonstrator/'
-  video: '<a href="/thesis/demonstrator/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
+  title: "EML Imagevideo"
+  url: '/press/imagevideo/'
+  video: '<a href="/press/imagevideo/" data-reveal-id="videoModal"><img src="/images/video.png" width="302" height="182" alt=""/></a>'
 widget2:
   title: "Visualizing DNN power consumption"
   url: '/thesis/tinyv3-poweranalysis/'
