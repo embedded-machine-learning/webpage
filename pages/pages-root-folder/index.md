@@ -58,7 +58,7 @@ Our scope is the mapping process of articfcial Neural Networks (NN) onto embedde
   - develop methods for dynamic on-line learning methods in embedded systems
 <br>
 <br>
-<iframe src="https://player.vimeo.com/video/666882491?h=6f00c6a5e1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Imagefilm_CDLEML_Untertitel"></iframe>
+<iframe src="https://player.vimeo.com/video/666882491?h=6f00c6a5e1&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Imagefilm_CDLEML_Untertitel"></iframe>
 
 <br>
 <br>
