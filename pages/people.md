@@ -185,9 +185,9 @@ permalink: /people/
     </div>
     <div class="row">
         <div class="large-2 columns">
-            <a href="https://www.ict.tuwien.ac.at/en/business-card/?tiss_id=2214077">
-            <img src="{{ site.urlimg }}/people/AlexanderWendt.jpg">
-            Alexander Wendt
+            <a href="https://tiss.tuwien.ac.at/person/240218.html?suchtext=Daniel+schn%C3%B6ll">
+            <img src="{{ site.urlimg }}/people/DanielSchnoell.jpg">
+            Daniel Schnöll
             <br>(TU Wien)
             </a>
         </div>
@@ -206,9 +206,9 @@ permalink: /people/
             </a>
         </div>
         <div class="large-2 columns">
-            <a href="https://tiss.tuwien.ac.at/person/40009.html?suchtext=krieg">
-            <img src="{{ site.urlimg }}/people/ChristianKrieg.jpg">
-            Christian Krieg
+            <a href="https://tiss.tuwien.ac.at/person/282097.html?suchtext=bittner">
+            <img src="{{ site.urlimg }}/people/MatthiasBittner.png">
+            Matthias Bittner
             <br>(TU Wien)
             </a>
         </div>
@@ -237,13 +237,7 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
-        <div class="large-2 columns">
-            <a href="https://tiss.tuwien.ac.at/person/282097.html?suchtext=bittner">
-            <img src="{{ site.urlimg }}/people/MatthiasBittner.png">
-            Matthias Bittner
-            <br>(TU Wien)
-            </a>
-        </div>
+        
         <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/334964.html?suchtext=Sch%C3%B6fl">
             <img src="{{ site.urlimg }}/people/CarinaSchoefl.png">
@@ -258,13 +252,7 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
-        <div class="large-2 columns">
-            <a href="https://tiss.tuwien.ac.at/person/240218.html?suchtext=Daniel+schn%C3%B6ll">
-            <img src="{{ site.urlimg }}/people/DanielSchnoell.jpg">
-            Daniel Schnöll
-            <br>(TU Wien)
-            </a>
-        </div>
+        
 
     </div>
     <div class="row">
@@ -304,7 +292,9 @@ permalink: /people/
   
 </div>
 
-
+<h2>Research Staff Alumni</h2>
+Alexander Wendt (TU Wien, Ph.D) moved to <a href="https://www.ebcont.com/">Ebcont Vienna</a> <br> 
+Christian Krieg (TU Wien, Ph.D) moved to <h href="https://www.tuwien.at/">TU Vienna</a> <br>
 
 <h2>Affiliated Research Students </h2>
 Lukas Steindl (TU Wien, Master)<br>
