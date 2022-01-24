@@ -252,6 +252,8 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
+         <div class="large-2 columns">
+        </div>
     </div>
     <div class="row">
         <div class="large-2 columns">
@@ -283,6 +285,8 @@ permalink: /people/
             Thomas Kotrba 
             <br>(TU Wien)
             </a>
+        </div>
+        <div class="large-2 columns">
         </div>
     </div>
 </div>
