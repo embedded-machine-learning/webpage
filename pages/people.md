@@ -252,8 +252,6 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
-        
-
     </div>
     <div class="row">
         <div class="large-2 columns">
@@ -286,15 +284,12 @@ permalink: /people/
             <br>(TU Wien)
             </a>
         </div>
-        <div class="large-2 columns">
-        </div>
     </div>
-  
 </div>
 
 <h2>Research Staff Alumni</h2>
 Alexander Wendt (TU Wien, Ph.D) moved to <a href="https://www.ebcont.com/">Ebcont Vienna</a> <br> 
-Christian Krieg (TU Wien, Ph.D) moved to <h href="https://www.tuwien.at/">TU Vienna</a> <br>
+Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU Vienna</a> <br>
 
 <h2>Affiliated Research Students </h2>
 Lukas Steindl (TU Wien, Master)<br>
