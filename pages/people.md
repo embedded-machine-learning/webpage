@@ -41,17 +41,6 @@ permalink: /people/
     </div>
     <div class="row">
         <div class="small-6 columns">
-            <a href="https://www.ict.tuwien.ac.at/en/business-card/?tiss_id=2214077">
-            <img src="{{ site.urlimg }}/people/AlexanderWendt.jpg">
-            Alexander Wendt
-            <br>(TU Wien)
-            </a>
-        </div>
-        <div class="small-6 columns">
-        </div>
-    </div>
-    <div class="row">
-        <div class="small-6 columns">
             <a href=" https://tiss.tuwien.ac.at/person/179979.html?suchtext=wess">
             <img src="{{ site.urlimg }}/people/MatthiasWess.png">
             Matthias Wess
@@ -68,18 +57,13 @@ permalink: /people/
     </div>
     <div class="row">
         <div class="small-6 columns">
-            <a href="https://tiss.tuwien.ac.at/person/40009.html?suchtext=krieg">
-            <img src="{{ site.urlimg }}/people/ChristianKrieg.jpg">
-            Christian Krieg
-            <br>(TU Wien)
-            </a>
-        </div>
-        <div class="small-6 columns">
             <a href="https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=0DB65457790F4407">
             <img src="{{ site.urlimg }}/people/ChristianFruwirthReisinger.jpg">
             Christian Fruhwirth-Reisinger
             <br>(TU Graz) 
             </a>
+        </div>
+        <div class="small-6 columns">
         </div>
     </div>
     <div class="row">
