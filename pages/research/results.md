@@ -9,7 +9,7 @@ permalink: "/research/results/"
 
 ### Theses
 
-{% assign YearList = "2021,2020" | split: "," %}
+{% assign YearList = "2022,2021,2020" | split: "," %}
 
 {% for year in YearList %}
 ### {{ year }} 
