@@ -21,3 +21,7 @@ echo "Making the list of Software packages Software.csv ..."
 
 xlsx2csv -i -n 'Software' CDLEML_WP_Progress_EML-Process.xlsx Software.csv
 
+echo " "
+echo "Making the list of Open Theses OpenTheses.csv ..."
+
+xlsx2csv -i -n 'OpenTheses' CDLEML_WP_Progress_EML-Process.xlsx OpenTheses.csv
