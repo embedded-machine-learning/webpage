@@ -9,10 +9,16 @@ permalink: "/research/opentheses/"
 
 ### Theses
 
-{% assign YearList = "2022,2021,2020" | split: "," %}
+{% assign TypeList = "BA,DA" | split: "," %}
 
-{% for year in YearList %}
-### {{ year }} 
+{% for Type in TypeList %}
+### {{ Type }} 
+
+{%if Type == 'BA' %}
+    ### {{ 'Bachelorarbeit'}}
+
+{%if Type == 'DA' %}
+    ### {{ 'Diplomarbeit'}}
 
 <table>
   {% for row in site.data.OpenTheses %}
@@ -26,7 +32,7 @@ permalink: "/research/opentheses/"
 	</tr>
      {% endif %}
 
-     {% if row["Year"] == year %}
+     {% if row["Type"] == Type %}
         <tr>
         {% for pair in row %}
 	   {% if pair[0] == "Link" %}
