@@ -16,9 +16,11 @@ permalink: "/research/opentheses/"
 
 {%if Type == 'BA' %}
     ### {{ 'Bachelorarbeit'}}
+{% endif %}
 
 {%if Type == 'DA' %}
     ### {{ 'Diplomarbeit'}}
+{% endif %}
 
 <table>
   {% for row in site.data.OpenTheses %}
