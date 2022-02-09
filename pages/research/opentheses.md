@@ -15,11 +15,11 @@ permalink: "/research/opentheses/"
 ### {{ Type }} 
 
 {%if Type == 'BA' %}
-    ### {{ 'Bachelorarbeit'}}
+### {{ 'Bachelorarbeit'}}
 {% endif %}
 
 {%if Type == 'DA' %}
-    ### {{ 'Diplomarbeit'}}
+### {{ 'Diplomarbeit'}}
 {% endif %}
 
 <table>
