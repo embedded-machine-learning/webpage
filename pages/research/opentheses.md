@@ -27,7 +27,7 @@ These theses are currently available at the eml laboratory.
      {% if forloop.first %}
 	<tr>
 	{% for pair in row %}
-	   {% if pair[0] != "Year" %}
+	   {% if pair[0] != "Type" %}
 	      <th>{{ pair[0] }}</th>
 	   {% endif %}
         {% endfor %}
