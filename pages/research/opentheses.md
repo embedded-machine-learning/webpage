@@ -43,7 +43,7 @@ permalink: "/research/opentheses/"
         {% endfor %}
         </tr>
 
-     {% endif %}    
+     {% endif %}
   {% endfor %}
   
 </table>
