@@ -1,13 +1,13 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "OpenTheses"
+title: "Open Theses"
 #subheadline: "A Step-by-Step Guide"
 #teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 permalink: "/research/opentheses/"
 ---
+These theses are currently available at the eml laboratory.
 
-### Theses
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
@@ -15,11 +15,11 @@ permalink: "/research/opentheses/"
 ### {{ Type }} 
 
 {%if Type == 'BA' %}
-### {{ 'Bachelorarbeit'}}
+### {{ 'Bachelortheses:'}}
 {% endif %}
 
 {%if Type == 'DA' %}
-### {{ 'Diplomarbeit'}}
+### {{ 'Mastertheses:'}}
 {% endif %}
 
 <table>
@@ -39,7 +39,7 @@ permalink: "/research/opentheses/"
         {% for pair in row %}
 	   {% if pair[0] == "Link" %}
 	   	 <td><a href="{{ pair[1] }}">{{ pair[1] }}</a> </td>
-	   {% elsif pair[0] != "Year" %}
+	   {% elsif pair[0] != "Type" %}
 	   	 <td>{{ pair[1] }}</td>
 	   {% endif %}
         {% endfor %}
