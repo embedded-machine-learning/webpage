@@ -15,6 +15,8 @@ in combination, affect the final quality of implementation. The research in this
 improve our understanding of this design space and reveal yet hidden structures and relations
 between DNN transformations and platform configuration choices.
 
+ <img src="{{ site.urlimg }}design-space.png" width="600px" style="vertical-align: middle;horizontal-align: center;">
+
 ## Vision
 The Christian Doppler Laboratory for Embedded Machine Learning addresses the fundamental research questions arising when deep machine learning is deployed in embedded systems 
 with tight resource constraints. The focus of research is on
