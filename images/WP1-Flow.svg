@@ -1,0 +1,92 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.6a -->
+<!-- CreationDate: 2022-02-18 11:25:04 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="229pt" height="359pt"
+	viewBox="3138 1788 3624 5694">
+<g fill="none">
+<!-- Line -->
+<rect x="3150" y="1845" width="1350" height="855" rx="105" fill="#99d2d2"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="5400" y="1800" width="1350" height="900" fill="#99d299"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Ellipse -->
+<ellipse cx="4950" cy="3712" rx="855" ry="337" fill="#9999ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<rect x="4095" y="6570" width="1800" height="900" fill="#72c172"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Ellipse -->
+<ellipse cx="4950" cy="5288" rx="990" ry="832" fill="#9999ff"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 3138,1788 H 6762 V 7482 H 3138 z
+		M 4781,3260 4848,3364 4740,3303 4860,3385 4870,3375z"/>
+</clipPath>
+</defs>
+<polyline points=" 4140,2700 4860,3375" clip-path="url(#cp0)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 4860,3375 -->
+<polyline points=" 4781,3260 4848,3364 4740,3303"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp1">
+	<path clip-rule="evenodd" d="M 3138,1788 H 6762 V 7482 H 3138 z
+		M 5203,3300 5097,3363 5160,3257 5075,3375 5085,3385z"/>
+</clipPath>
+</defs>
+<polyline points=" 5760,2700 5085,3375" clip-path="url(#cp1)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 5085,3375 -->
+<polyline points=" 5203,3300 5097,3363 5160,3257"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp2">
+	<path clip-rule="evenodd" d="M 3138,1788 H 6762 V 7482 H 3138 z
+		M 4980,4363 4950,4483 4920,4363 4943,4507 4957,4507z"/>
+</clipPath>
+</defs>
+<polyline points=" 4950,4050 4950,4500" clip-path="url(#cp2)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 4950,4500 -->
+<polyline points=" 4980,4363 4950,4483 4920,4363"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
+<!-- Line -->
+<defs>
+<clipPath id="cp3">
+	<path clip-rule="evenodd" d="M 3138,1788 H 6762 V 7482 H 3138 z
+		M 4980,6433 4950,6553 4920,6433 4943,6577 4957,6577z"/>
+</clipPath>
+</defs>
+<polyline points=" 4950,6120 4950,6570" clip-path="url(#cp3)"
+	stroke="#000000" stroke-width="8px"/>
+<!-- Forward arrow to point 4950,6570 -->
+<polyline points=" 4980,6433 4950,6553 4920,6433"
+	stroke="#000000" stroke-width="8px" stroke-miterlimit="8"/>
+<!-- Text -->
+<text xml:space="preserve" x="3690" y="2340" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">DNN</text>
+<!-- Text -->
+<text xml:space="preserve" x="5715" y="2317" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Platform</text>
+<!-- Text -->
+<text xml:space="preserve" x="4500" y="3779" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Estimation</text>
+<!-- Text -->
+<text xml:space="preserve" x="4320" y="7072" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Implemented DNN</text>
+<!-- Text -->
+<text xml:space="preserve" x="4605" y="4771" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Platform</text>
+<!-- Text -->
+<text xml:space="preserve" x="4695" y="5040" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Aware</text>
+<!-- Text -->
+<text xml:space="preserve" x="4410" y="5310" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Optimization</text>
+<!-- Text -->
+<text xml:space="preserve" x="4875" y="5580" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">&#38;</text>
+<!-- Text -->
+<text xml:space="preserve" x="4575" y="5850" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="144" text-anchor="start">Mapping</text>
+</g>
+</svg>
