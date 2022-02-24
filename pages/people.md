@@ -42,7 +42,7 @@ permalink: /people/
     <div class="row">
         <div class="small-6 columns">
             <a href=" https://tiss.tuwien.ac.at/person/179979.html?suchtext=wess">
-            <img src="{{ site.urlimg }}/people/MatthiasWess.png">
+            <img src="{{ site.urlimg }}/people/MatthiasWess.jpg">
             Matthias Wess
             <br>(Siemens,<br> TU Wien)
             </a>
@@ -108,7 +108,7 @@ permalink: /people/
         </div>
         <div class="small-6 columns">
             <a href="https://tiss.tuwien.ac.at/person/334964.html?suchtext=Sch%C3%B6fl">
-            <img src="{{ site.urlimg }}/people/CarinaSchoefl.png">
+            <img src="{{ site.urlimg }}/people/CarinaSchoefl.jpg">
             Carina Schöfl
             <br>(TU Wien)
             </a>
@@ -177,7 +177,7 @@ permalink: /people/
         </div>
         <div class="large-2 columns">
             <a href=" https://tiss.tuwien.ac.at/person/179979.html?suchtext=wess">
-            <img src="{{ site.urlimg }}/people/MatthiasWess.png">
+            <img src="{{ site.urlimg }}/people/MatthiasWess.jpg">
             Matthias Wess
             <br>(Siemens,<br> TU Wien)
             </a>
@@ -224,7 +224,7 @@ permalink: /people/
         
         <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/334964.html?suchtext=Sch%C3%B6fl">
-            <img src="{{ site.urlimg }}/people/CarinaSchoefl.png">
+            <img src="{{ site.urlimg }}/people/CarinaSchoefl.jpg">
             Carina Schöfl
             <br>(TU Wien)
             </a>
