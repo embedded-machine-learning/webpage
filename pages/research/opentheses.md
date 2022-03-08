@@ -10,7 +10,10 @@ These theses are currently available at the eml laboratory.
 
 {{ site.time | date: '%B %d, %Y' }}
 
-{{ site.time | date: '%s' }}
+{% assign desperate = {{ site.time | date: '%s' }} %}
+
+desperation
+{{desperate}}
 
 {{ 'now' | date: '%s' }}
 
