@@ -1,18 +1,18 @@
 ---
 layout: page-fullwidth
 # subheadline:  "Multi-Device Layouts in Color"
-title:  "Team and People"
+title:  "Team"
 # teaser: "These are the people that make up the CD EML."
 # breadcrumb: true
 categories:
-    - people
-permalink: /people/
+    - team
+permalink: /team/
 # header: no
 ---
 
 <h3>Team TU Wien</h3>
 <img src="{{ site.urlimg }}/people/Teamfoto.jpg">
-from left to right Matthias Bittner, Marco Wuschnig, Carina Schöffel, Thomas Kotrba, Axel Jantsch, Dominik Dallinger, Matthias Wess, Daniel Schnöll, Matvey Ivanov
+from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotrba, Axel Jantsch, Dominik Dallinger, Matthias Wess, Daniel Schnöll, Matvey Ivanov
 <div class="show-for-small">
     <div class="row">
         <div class="small-12 columns">
