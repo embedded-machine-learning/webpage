@@ -14,10 +14,16 @@ These theses are currently available at the eml laboratory.
 
 {{ 'now' | date: '%s' }}
 
-{{ 'now' | date: '%s' | plus: 0 }}
+{% assign time2 = {{ 'now' | date: '%s' | plus: 0 }} %}
 
+time2
+{{time2}}
 
 {% assign current_time = {{ 'now' | date: '%s' }} %}
+
+Test
+{{current_time}}
+
 {% assign current_time = current_time | plus: 0 %}
 
 
