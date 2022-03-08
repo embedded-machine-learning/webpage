@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 # subheadline:  "Multi-Device Layouts in Color"
-title:  "People"
+title:  "Team and People"
 # teaser: "These are the people that make up the CD EML."
 # breadcrumb: true
 categories:
@@ -10,8 +10,10 @@ permalink: /people/
 # header: no
 ---
 
-
-
+<h3>Team</h3>
+<img src="{{ site.urlimg }}/people/Teamfoto.jpg">
+Team TU Wien
+</br>
 <div class="show-for-small">
     <div class="row">
         <div class="small-12 columns">
