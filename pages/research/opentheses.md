@@ -17,6 +17,20 @@ These theses are currently available at the eml laboratory.
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
+
+{% for Type in TypeList %}
+	{{Type}}
+{% endfor %}
+
+{% for row in site.data.OpenTheses %}
+        {{row}}
+	{% if forlopp.first %}
+		Test
+	{% endif %}
+{% endfor %}
+
+
+
 {% for Type in TypeList %}
 ### {{ Type }} 
 
