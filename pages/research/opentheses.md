@@ -28,9 +28,9 @@ These theses are currently available at the eml laboratory.
 			{% if pair[0] == "Date" %}
 				{% assign timestamp = {{pair[1] | date: "%s"}} %}
 				{{timestamp}}
-				{% assign timestamp2 = {{timestamp | plus:0}} %}
-				
-				{%assign x = {{timestamp2 | plus:23328000}}%}
+				{% assign timestamp2 = {{timestamp | plus: 0}} %}
+				{{timestamp2}}
+				{% assign x = {{timestamp2 | plus: 23328000}} %}
 				{{x}}
 			{% endif %}
 			{{pair}}
