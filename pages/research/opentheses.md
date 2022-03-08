@@ -25,6 +25,10 @@ These theses are currently available at the eml laboratory.
 {% for row in site.data.OpenTheses %}
         {{row}}
 		{% for pair in row %}
+			{% if pair[0] == "Date" %}
+				var timestamp = "{{pair[1] | date: "%s"}}"
+				{{timestamp}}
+			{% endif %}
 			{{pair}}
 			{{pair[0]}}
 			{{pair[1]}}
