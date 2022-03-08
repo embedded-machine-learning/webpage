@@ -18,7 +18,7 @@ These theses are currently available at the eml laboratory.
 
 
 {% assign current_time = {{ 'now' | date: '%s' }} %}
-{$ assign current_time = current_time | plus: 0 %}
+{% assign current_time = current_time | plus: 0 %}
 
 
 Derzeitige Zeit
