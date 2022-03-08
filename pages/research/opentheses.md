@@ -15,6 +15,11 @@ These theses are currently available at the eml laboratory.
 {{ 'now' | date: '%s' | plus: 0 }}
 
 
+{% assign current_time = {{ 'now' | date: '%s' | plus: 0 }} %}
+
+Derzeitige Zeit
+{{current_time}} 
+
 {% assign TypeList = "BA,DA" | split: "," %}
 
 
