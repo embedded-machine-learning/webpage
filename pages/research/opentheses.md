@@ -10,12 +10,16 @@ These theses are currently available at the eml laboratory.
 
 {{ site.time | date: '%B %d, %Y' }}
 
+{{ site.time | date: '%s' }}
+
 {{ 'now' | date: '%s' }}
 
 {{ 'now' | date: '%s' | plus: 0 }}
 
 
-{% assign current_time = {{ 'now' | date: '%s' | plus: 0 }} %}
+{% assign current_time = {{ 'site.time' | date: '%s' }} %}
+{$ assign current_time = current_time | plus: 0 %}
+{{current_time}}
 
 Derzeitige Zeit
 {{current_time}} 
