@@ -24,6 +24,11 @@ These theses are currently available at the eml laboratory.
 
 {% for row in site.data.OpenTheses %}
         {{row}}
+		{% for pair in row %}
+			{{pair}}
+			{{pair[0]}}
+			{{pair[1]}}
+		{% endfor %}
 	{% if forloop.first %}
 		Test
 	{% endif %}
