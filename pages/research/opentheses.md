@@ -16,7 +16,11 @@ These theses are currently available at the eml laboratory.
 
 {{ 'now' | date: '%s' | plus: 0 }}
 
-<script>document.write(Date.now());</script>
+{% capture test %} <script>document.write(Math.round(Date.now()/1000));</script> {% endcapture %}
+
+{{test}}
+{% test = test | plus: 0 %}
+{{test}}
 
 <script> x = Date.now() </script>
 
