@@ -10,6 +10,10 @@ These theses are currently available at the eml laboratory.
 
 {{ site.time | date: '%B %d, %Y' }}
 
+{{ 'now' | date: '%s' }}
+
+{{ 'now' | date: '%s' | plus: 0 }}
+
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
