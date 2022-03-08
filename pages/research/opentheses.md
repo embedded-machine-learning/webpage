@@ -19,7 +19,7 @@ These theses are currently available at the eml laboratory.
 {% capture timevar %} <script>document.write(Math.round(Date.now()/1000));</script> {% endcapture %}
 
 {{timevar}}
-{% test = timevar | plus: 0 %}
+{% timevar = timevar | plus: 0 %}
 {{timevar}}
 
 <script> x = Date.now() </script>
