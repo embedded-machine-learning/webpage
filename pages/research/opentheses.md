@@ -16,17 +16,10 @@ These theses are currently available at the eml laboratory.
 
 {{ 'now' | date: '%s' | plus: 0 }}
 
-{% capture timevar %} <script>document.write(Math.round(Date.now()/1000));</script> {% endcapture %}
 
-{{timevar}}
-{% timevar = timevar | plus: 0 %}
-{{timevar}}
-
-<script> x = Date.now() </script>
-
-{% assign current_time = {{ 'site.time' | date: '%s' }} %}
+{% assign current_time = {{ 'now' | date: '%s' }} %}
 {$ assign current_time = current_time | plus: 0 %}
-{{current_time}}
+
 
 Derzeitige Zeit
 {{current_time}} 
