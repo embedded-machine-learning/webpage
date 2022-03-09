@@ -9,7 +9,7 @@ permalink: "/research/opentheses/"
 These theses are currently available at the eml laboratory.
 
 {% assign date = 1646860068 %}
-y
+
 {% assign TypeList = "BA,DA" | split: "," %}
 
 {% for Type in TypeList %}
