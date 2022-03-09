@@ -9,36 +9,7 @@ permalink: "/research/opentheses/"
 These theses are currently available at the eml laboratory.
 
 {% assign date = 1646860068 %}
-{{date}}
-
-
-{% for row in site.data.OpenTheses %}
-        {{row}}
-	{
-	{% assign x = 0 %}
-		{% for pair in row %}
-			{% if pair[0] == "Date" %}
-				{% assign timestamp = {{pair[1] | date: "%s"}} %}
-				{{timestamp}}
-				{% assign timestamp2 = timestamp | plus: 0 %}
-				{{timestamp2}}
-				{% assign x = timestamp2 | plus: 23328000 %}
-				X:{{x}}
-				Date: {{date}}
-			{% endif %}
-			X:{{x}}
-                        Date: {{date}}
-			{%if x>=date %}
-				Datum passt
-			{% endif %}
-		{% endfor %}
-	{% if forloop.first %}
-		Test
-	{% endif %}
-{% endfor %}
-
-
-
+y
 {% assign TypeList = "BA,DA" | split: "," %}
 
 {% for Type in TypeList %}
