@@ -4,7 +4,7 @@ import time
 date = str(int(time.time()))
 
 
-input_file = open('/data/research/opentheses.md' ,'r+')
+input_file = open('./data/pages/research/opentheses.md' ,'r+')
 
 
 
