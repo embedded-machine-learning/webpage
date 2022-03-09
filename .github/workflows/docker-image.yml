@@ -29,7 +29,7 @@ jobs:
     - name: csvmake
       run: docker run -v ${PWD}:/data bib sh ./data/mkWorkProgresscsv.sh 
     - name: time
-      run: docker run -v ${PWD}:/data python3 ./data/time.py
+      run: docker run -v ${PWD}:/data bib python3 ./data/time.py
     - name: commit
       run: ls -la _includes
     - name: Commit files
