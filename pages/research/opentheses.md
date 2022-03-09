@@ -8,7 +8,7 @@ permalink: "/research/opentheses/"
 ---
 These theses are currently available at the eml laboratory.
 
-{% assign date = 1646865187 %}
+{% assign date = 1646866217 %}
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
