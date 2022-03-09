@@ -21,8 +21,11 @@ These theses are currently available at the eml laboratory.
 				{% assign timestamp2 = timestamp | plus: 0 %}
 				{{timestamp2}}
 				{% assign x = timestamp2 | plus: 23328000 %}
-				{{x}}
+				X:{{x}}
+				Date: {{date}}
 			{% endif %}
+			X:{{x}}
+                        Date: {{date}}
 			{%if x>=date %}
 				Datum passt
 			{% endif %}
