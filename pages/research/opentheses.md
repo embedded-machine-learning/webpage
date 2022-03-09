@@ -8,30 +8,10 @@ permalink: "/research/opentheses/"
 ---
 These theses are currently available at the eml laboratory.
 
-{{ site.time | date: '%B %d, %Y' }}
+{% assign date = %}
 
-{% assign desperate = {{ site.time | date: '%s' }} %}
+{{date}}
 
-desperation
-{{desperate}}
-
-{{ 'now' | date: '%s' }}
-
-{% assign time2 = {{ 'now' | date: '%s' | plus: 0 }} %}
-
-time2
-{{time2}}
-
-{% assign current_time = {{ 'now' | date: '%s' }} %}
-
-Test
-{{current_time}}
-
-{% assign current_time = current_time | plus: 0 %}
-
-
-Derzeitige Zeit
-{{current_time}} 
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
@@ -51,9 +31,9 @@ Derzeitige Zeit
 				{% assign x = timestamp2 | plus: 23328000 %}
 				{{x}}
 			{% endif %}
-			{{pair}}
-			{{pair[0]}}
-			{{pair[1]}}
+			{%if timestamp2>=date %}
+				Datum passt
+			{% endif %}
 		{% endfor %}
 	{% if forloop.first %}
 		Test
