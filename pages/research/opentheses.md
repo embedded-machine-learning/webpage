@@ -8,12 +8,14 @@ permalink: "/research/opentheses/"
 ---
 These theses are currently available at the eml laboratory.
 
-{% assign date = 1646854923 %}
+{% assign date = 1646860068 %}
 {{date}}
 
 
 {% for row in site.data.OpenTheses %}
         {{row}}
+	{
+	{% assign x = 0 %}
 		{% for pair in row %}
 			{% if pair[0] == "Date" %}
 				{% assign timestamp = {{pair[1] | date: "%s"}} %}
@@ -61,6 +63,10 @@ These theses are currently available at the eml laboratory.
         {% endfor %}
 	</tr>
      {% endif %}
+     {% assign timestamp = {row['Date'] | date: "%s"} %}
+     {% assign timestamp = timestamp | plus: 0 %}
+     {% assign timestamp = timestamp | plus: 23328000 %}
+     {% if timestamp >= date %}
 
      {% if row["Type"] == Type %}
         <tr>
@@ -73,6 +79,7 @@ These theses are currently available at the eml laboratory.
         {% endfor %}
         </tr>
 
+     {% endif %}
      {% endif %}
   {% endfor %}
   
