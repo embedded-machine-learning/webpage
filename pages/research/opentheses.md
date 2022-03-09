@@ -8,7 +8,7 @@ permalink: "/research/opentheses/"
 ---
 These theses are currently available at the eml laboratory.
 
-<<<<<<< HEAD
+{% assign date = 1646864732 %}
 {% assign date = 1646860068 %}
 
 =======
