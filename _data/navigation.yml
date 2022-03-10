@@ -22,8 +22,10 @@
     url: "/research/activities/"
   - title: "Results"
     url: "/research/results/"
-  - title: "Open Theses"
-    url: "/research/opentheses/"  
+
+- title: "Open Theses"
+  url: "/research/opentheses/"
+  side: left  
 
     
 - title: Partners
