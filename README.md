@@ -1,6 +1,6 @@
 # Christian Doppler Laboratory for Embedded Machine Learning Webpage
 
-##./github/workflows/docker-image.yml
+## ./github/workflows/docker-image.yml
 Is called every push and every day at 01:00 UTC.
 It builds a docker container. 
 
@@ -21,7 +21,7 @@ time.py will update pages/research/opentheses.md with the current time so that o
 ## To update the publications
 just edit the PublFiles/eml.bib file, the building pipeline takes care of the rest but takes about 2 minutes or so
 
-##Update Opentheses
+## Update Opentheses
 To update opentheses you have to update the _data/CDLEML_WP_Progress_EML-Process.xlsx file. There you find the open theses table.
 
 Opentheses uses the time.py so the old published opentheses are not displayed. 
@@ -29,7 +29,7 @@ time.py is called by the ./github/workflows/docker-image.yml which is called eve
 
 
 
-##Update Menu
+## Update Menu
 Update the _data/navigation.yml
 
 

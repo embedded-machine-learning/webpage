@@ -6,14 +6,14 @@ title: "Open Theses"
 #teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 permalink: "/research/opentheses/"
 ---
-These theses are currently available at the eml laboratory.
+We are currently offering the following theses.
 
-{% assign date = 1646879122 %}
+{% assign date = 1646905244 %}
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
 {% for Type in TypeList %}
-### {{ Type }} 
+
 
 {%if Type == 'BA' %}
 ### {{ 'Bachelortheses:'}}
@@ -57,7 +57,9 @@ These theses are currently available at the eml laboratory.
 </table>
 {% endfor %}
 
+### Finished Theses
 
+See the [Research section]({ site.url }}{{ site.baseurl }}/research/results).
 
 ### Publications
 
