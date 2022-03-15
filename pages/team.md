@@ -281,11 +281,11 @@ Lukas Steindl (TU Wien, Master)<br>
 Helmuth Breitenfellner (TU Wien, Master)<br>
 Birgit Schreiber (TU Wien, Master)<br>
 Thomas Kotrba (TU Wien, Master)<br>
+Alon Tchelet (TU Wien, Master)<br> 
+Alexander Ludwig (TU Wien, Master)<br> 
 Julian Westra (TU Wien, Bachelor)<br>
 Nicolas Alge (TU Wien, Bachelor)<br>
 Maroun El-Chayeb (TU Wien, Bachelor)<br>
-Alon Tchelet (TU Wien, Master)<br> 
-Alexander Ludwig (TU Wien, Master)<br> 
 
 <h2>Research Staff Alumni</h2>
 Alexander Wendt (TU Wien, Ph.D) moved to <a href="https://www.ebcont.com/">Ebcont Vienna</a> <br> 
