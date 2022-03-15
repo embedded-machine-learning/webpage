@@ -1,5 +1,8 @@
 # Christian Doppler Laboratory for Embedded Machine Learning Webpage
 
+## Workflow
+Use git pull before editing local files. Because some files are updated on a daily basis by cron jobs.
+
 ## ./github/workflows/docker-image.yml
 Is called every push and every day at 01:00 UTC.
 It builds a docker container. 
@@ -18,12 +21,12 @@ Is more or less the masterfile. It creates the csv files for Opentheses, Softwar
 
 ## Update Opentheses
 
-We show on the Webpages the Opentheses where the publish date is not older than 270 days (more specific 23328000 seconds = 60*60*24*30*9).
+We show on the Webpages the Opentheses where the publish date is not older than 270 days (more specific 23328000 seconds = 60x60x24x30x9).
 
 To update opentheses you have to update the _data/CDLEML_WP_Progress_EML-Process.xlsx file. There you find the open theses table.
 
 ### Old Opentheses
-[Here](https://eml.ict.tuwien.ac.at/research/opentheses_old/) you can find the Opentheses which are in the _data/CDLEML_WP_Progress_EML-Process.xlsx but are older than 270 Days (23328000 seconds = 60*60*24*30*9).
+[Here](https://eml.ict.tuwien.ac.at/research/opentheses_old/) you can find the Opentheses which are in the _data/CDLEML_WP_Progress_EML-Process.xlsx but are older than 270 Days (23328000 seconds = 60x60x24x30x9).
 
 Opentheses uses the time.py so the old published opentheses are not displayed.
 time.py is called by the ./github/workflows/docker-image.yml which is called every push and with a cron job every day at 01:00 UTC.
