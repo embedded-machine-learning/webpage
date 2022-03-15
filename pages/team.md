@@ -11,7 +11,7 @@ permalink: /team/
 ---
 
 <h3>Team TU Wien</h3>
-<img src="{{ site.urlimg }}/people/Teamfoto.jpg">
+<img src="{{ site.urlimg }}/people/Teamfoto_small.jpg">
 from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotrba, Axel Jantsch, Dominik Dallinger, Matthias Wess, Daniel Schnöll, Matvey Ivanov
 <div class="show-for-small">
     <div class="row">
