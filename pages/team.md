@@ -286,6 +286,7 @@ Alexander Ludwig (TU Wien, Master)<br>
 Julian Westra (TU Wien, Bachelor)<br>
 Nicolas Alge (TU Wien, Bachelor)<br>
 Maroun El-Chayeb (TU Wien, Bachelor)<br>
+David Radu Andrei (TU Wien, Bachelor)<br>
 
 <h2>Research Staff Alumni</h2>
 Alexander Wendt (TU Wien, Ph.D) moved to <a href="https://www.ebcont.com/">Ebcont Vienna</a> <br> 
