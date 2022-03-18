@@ -18,8 +18,8 @@
     url: "/research/vision/"
   - title: "Description"
     url: "/research/description/"
-  - title: "Activities"
-    url: "/research/activities/"
+#  - title: "Activities"
+#    url: "/research/activities/"
   - title: "Results"
     url: "/research/results/"
 
