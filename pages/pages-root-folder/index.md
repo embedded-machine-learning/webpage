@@ -11,7 +11,7 @@ sidebar: right
   
 
 widget1:
-  title: "EML Imagevideo"
+  title: "EML Introductionfilm"
   url: '/press/imagevideo/'
   video: '<a href="/press/imagevideo/" data-reveal-id="videoModal"><img src="/images/posts/Imagefilm_small.gif" width="302" height="182" alt=""/></a>'
 widget2:
