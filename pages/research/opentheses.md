@@ -8,7 +8,7 @@ permalink: "/research/opentheses/"
 ---
 We are currently offering the following theses.
 
-{% assign date = 1655953904 %}
+{% assign date = 1656030698 %}
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
