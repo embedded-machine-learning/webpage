@@ -10,9 +10,6 @@ permalink: /team/
 # header: no
 ---
 
-<h3>Team TU Wien</h3>
-<img src="{{ site.urlimg }}/people/Teamfoto_small.jpg">
-from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotrba, Axel Jantsch, Dominik Dallinger, Matthias Wess, Daniel Schnöll, Matvey Ivanov
 <div class="show-for-small">
     <div class="row">
         <div class="small-12 columns">
@@ -275,6 +272,10 @@ from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotr
         </div>
     </div>
 </div>
+
+<h3>Team TU Wien</h3>
+<img src="{{ site.urlimg }}/people/Teamfoto_small.jpg">
+from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotrba, Axel Jantsch, Dominik Dallinger, Matthias Wess, Daniel Schnöll, Matvey Ivanov
 
 <h2>Affiliated Research Students </h2>
 Birgit Schreiber (TU Wien, Master)<br>
