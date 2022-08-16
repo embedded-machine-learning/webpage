@@ -277,11 +277,7 @@ from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotr
 </div>
 
 <h2>Affiliated Research Students </h2>
-Lukas Steindl (TU Wien, Master)<br>
-Helmuth Breitenfellner (TU Wien, Master)<br>
 Birgit Schreiber (TU Wien, Master)<br>
-Thomas Kotrba (TU Wien, Master)<br>
-Alon Tchelet (TU Wien, Master)<br> 
 Alexander Ludwig (TU Wien, Master)<br> 
 Julian Westra (TU Wien, Bachelor)<br>
 Nicolas Alge (TU Wien, Bachelor)<br>
@@ -294,6 +290,9 @@ Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU Vie
 
 
 <h2>Research Students Alumni</h2>
+Helmuth Breitenfellner (TU Wien, Master)<br>
+Alon Tchelet (TU Wien, Master)<br> 
+Lukas Steindl (TU Wien, Master)<br>
 Michael Optiz (TU Graz, Ph.D) moved to <a href="https://www.amazon.de/">Amazon Berlin</a> <br>
 Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
 Anam Zahra (TU Graz, Master)<br>
