@@ -291,7 +291,7 @@ Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU Vie
 
 <h2>Research Students Alumni</h2>
 Helmuth Breitenfellner (TU Wien, Master)<br>
-Alon Tchelet (TU Wien, Master)<br> 
+Alon Tchelet (TU Wien, Master) moved to <a href="https://www.streamunlimited.com/">Stream Unlimited</a> <br> 
 Lukas Steindl (TU Wien, Master)<br>
 Michael Optiz (TU Graz, Ph.D) moved to <a href="https://www.amazon.de/">Amazon Berlin</a> <br>
 Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
