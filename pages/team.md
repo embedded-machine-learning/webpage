@@ -285,6 +285,8 @@ permalink: /team/
             <br>(TU Wien)
             </a>
         </div>
+        <div class="large-2 columns">
+        </div>
         
     </div>
 </div>
