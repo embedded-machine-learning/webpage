@@ -128,6 +128,16 @@ permalink: /team/
             </a>
         </div>
     </div>
+    <div class="row">
+        <div class="small-6 columns">
+            <a href="https://tiss.tuwien.ac.at/person/62817.html?suchtext=g%C3%B6tzinger">
+            <img src="{{ site.urlimg }}/people/GoetzingerMaximilian.jpg">
+            Maximilian Götzinger
+            <br>(TU Wien)
+            </a>
+        </div>
+       
+    </div>
 </div>
 
 <div class="show-for-large-up">
@@ -269,7 +279,13 @@ permalink: /team/
             </a>
         </div>
         <div class="large-2 columns">
+            <a href="https://tiss.tuwien.ac.at/person/62817.html?suchtext=g%C3%B6tzinger">
+            <img src="{{ site.urlimg }}/people/GoetzingerMaximilian.jpg">
+            Maximilian Götzinger 
+            <br>(TU Wien)
+            </a>
         </div>
+        
     </div>
 </div>
 
