@@ -298,14 +298,16 @@ from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotr
 <h2>Affiliated Research Students </h2>
 Birgit Schreiber (TU Wien, Master)<br>
 Alexander Ludwig (TU Wien, Master)<br> 
+Sherif Mohamed (TU Wien, Master) <br>
+Thomas Palan (TU Wien, Master) <br>
 Julian Westra (TU Wien, Bachelor)<br>
-Nicolas Alge (TU Wien, Bachelor)<br>
 Maroun El-Chayeb (TU Wien, Bachelor)<br>
-David Radu Andrei (TU Wien, Bachelor)<br>
+Matthias Dippold (TU Wien, Bachelor) <br>
+
 
 <h2>Research Staff Alumni</h2>
 Alexander Wendt (TU Wien, Ph.D) moved to <a href="https://www.ebcont.com/">Ebcont Vienna</a> <br> 
-Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU Vienna</a> <br>
+Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU WIEN</a> <br>
 
 
 <h2>Research Students Alumni</h2>
@@ -318,4 +320,6 @@ Anam Zahra (TU Graz, Master)<br>
 Andreas Glinserer (TU Wien, Master) moved to<a href="http://www.eyyes.com/"> EYYES GmbH</a><br>
 Bernhard Haas (TU Wien, Master) moved to <a href="https://www.gfz-potsdam.de/startseite/">GeoForschungsZentrum Potsdam</a><br>
 Fabian Scherer (TU Wien, Bachelor)<br>
-Amid Mozelli (TU Wien) moved to <a href="https://mission-embedded.com/"> Mission Embedded</a>
+Amid Mozelli (TU Wien) moved to <a href="https://mission-embedded.com/"> Mission Embedded</a><br>
+Nicolas Alge (TU Wien, Bachelor)<br>
+David Radu Andrei (TU Wien, Bachelor)<br>
