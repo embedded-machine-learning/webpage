@@ -1,12 +1,12 @@
 Type,Supervisor 1,Supervisor 2,Date,Titel,Link
-BA,Jantsch,Wess,01/01/2022,Adaptation of a Latency and Power Estimation Model for ARM Processors,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=9078&dsrid=628&thesisId=83155
-BA,Jantsch,Wess,11/03/2021,Energy Efficient Adaptive Neural Networks for Embedded Hardware,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=8615&dsrid=533&thesisId=89084
-DA,Jantsch,Wess,08/04/2021,"Adaptive Neural Network low bit-width Quantization for image classification, object detection and segmentation targeting FPGA",https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=8461&dsrid=505&thesisId=89961
-DA,Jantsch,Lechner,13/04/2021,Consistent Semantic Segmentation of Video Objects,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=9579&dsrid=362&thesisId=90183
+BA,Jantsch,Wess,15/11/2022,Adaptation of a Latency and Power Estimation Model for ARM Processors,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=9078&dsrid=628&thesisId=83155
+BA,Jantsch,Wess,15/11/2022,Energy Efficient Adaptive Neural Networks for Embedded Hardware,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=8615&dsrid=533&thesisId=89084
+DA,Jantsch,Wess,15/11/2022,"Adaptive Neural Network low bit-width Quantization for image classification, object detection and segmentation targeting FPGA",https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=8461&dsrid=505&thesisId=89961
+DA,Jantsch,Lechner,15/11/2022,Consistent Semantic Segmentation of Video Objects,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=9579&dsrid=362&thesisId=90183
 DA,Jantsch,Lechner,28/09/2020,Hardware-Aware Pruning of Neural Networks with Intel Distiller,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=7234&dsrid=684&thesisId=83157
-DA,Jantsch,Lechner,01/01/2022,Optimierung von 3D Convolutions auf Embedded Hardware für autonomes Fahren,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=2782&dsrid=203&thesisId=85720
-BA,Jantsch,Lechner,04/11/2021,Real-time Simultaneous Face Detection and Pose Estimation,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=8201&dsrid=413&thesisId=96423
-DA,Jantsch,Bittner,03/01/2022,Vision based workplace safety monitor in an automotive test bench,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=8384&dsrid=99&thesisId=98360
+DA,Jantsch,Lechner,15/11/2022,Optimierung von 3D Convolutions auf Embedded Hardware für autonomes Fahren,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=2782&dsrid=203&thesisId=85720
+BA,Jantsch,Lechner,15/11/2022,Real-time Simultaneous Face Detection and Pose Estimation,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=8201&dsrid=413&thesisId=96423
+DA,Jantsch,Bittner,15/11/2022,Vision based workplace safety monitor in an automotive test bench,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=8384&dsrid=99&thesisId=98360
 DA,Jantsch,Nima,19/05/2016,Designing an all-digital DLL for an open-source DDR3 controller,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=6371&dsrid=717&thesisId=37487
 DA,Jantsch,,28/06/2018,Deep Learning with Reduced Precision Weights,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=2720&dsrid=822&thesisId=57335
 DA,Jantsch,,28/06/2018,Embedded Deep Learning Inference with Shift-CNN,https://tiss.tuwien.ac.at/thesis/thesisDetails.xhtml?dswid=1203&dsrid=744&thesisId=57337
