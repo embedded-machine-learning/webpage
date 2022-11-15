@@ -19,11 +19,14 @@ time.py will update pages/research/opentheses.md with the current time so that o
 
 Is more or less the masterfile. It creates the csv files for Opentheses, Software, Theses (Completed) and WorkProgress.
 
+
 ## Update Opentheses
 
 We show on the Webpages the Opentheses where the publish date is not older than 270 days (more specific 23328000 seconds = 60x60x24x30x9).
 
 To update opentheses you have to update the _data/CDLEML_WP_Progress_EML-Process.xlsx file. There you find the open theses table.
+
+In PublFiles/Theses is the place for Theses PDF´s.
 
 ### Old Opentheses
 [Here](https://eml.ict.tuwien.ac.at/research/opentheses_old/) you can find the Opentheses which are in the _data/CDLEML_WP_Progress_EML-Process.xlsx but are older than 270 Days (23328000 seconds = 60x60x24x30x9).
@@ -40,7 +43,11 @@ time.py is called by the ./github/workflows/docker-image.yml which is called eve
 ## To update the publications
 just edit the PublFiles/eml.bib file, the building pipeline takes care of the rest but takes about 2 minutes or so
 
+## To update the Teampage
 
+The image of the person should be added in images/people
+
+To update the team page you have to modify the pages/team.md.
 
 
 ## Update Menu
