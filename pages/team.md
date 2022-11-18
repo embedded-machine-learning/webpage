@@ -136,6 +136,13 @@ permalink: /team/
             <br>(TU Wien)
             </a>
         </div>
+        <div class="small-6 columns">
+            <a href="https://tiss.tuwien.ac.at/person/371453.html?suchtext=Tobias+grill">
+            <img src="{{ site.urlimg }}/people/TobiasGrill.jpg">
+            Tobias Grill
+            <br>(TU Wien)
+            </a>
+        </div>
        
     </div>
 </div>
@@ -285,7 +292,12 @@ permalink: /team/
             <br>(TU Wien)
             </a>
         </div>
-        <div class="large-2 columns">
+         <div class="large-2 columns">
+            <a href="https://tiss.tuwien.ac.at/person/371453.html?suchtext=Tobias+grillr">
+            <img src="{{ site.urlimg }}/people/TobiasGrill.jpg">
+            Tobias Grill 
+            <br>(TU Wien)
+            </a>
         </div>
         
     </div>
