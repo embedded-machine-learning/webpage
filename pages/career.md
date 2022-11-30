@@ -10,6 +10,7 @@ permalink: /career/
 # header: no
 ---
 
-There are no vacant positions at the moment. If you are interested in working with us, please write an e-mail to job.ict@tuwien.ac.at
+There are no vacant positions at the moment. If you are interested in working with us, please write an e-mail to <a href='mailto:job.ict@tuwien.ac.at'>job.ict@tuwien.ac.at</a>
+
 
 
