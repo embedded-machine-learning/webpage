@@ -35,6 +35,9 @@
 - title: Team
   url: "/team/"
   side: left
+  dropdown:
+  - title: Career
+    url: https://eml.ict.tuwien.ac.at/PublFiles/Ausschreibungen/211104_AusschreibungProjectAssistants.pdf
     
 - title: Publications
   url: "/publications/"
