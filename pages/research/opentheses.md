@@ -23,12 +23,7 @@ We are currently offering the following theses.
 ### {{ 'Mastertheses:'}}
 {% endif %}
 
-<table width="100%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:10%">
-<col style="width:50%">
-<col style="width:20%">
+<table>
   {% for row in site.data.OpenTheses %}
      {% if forloop.first %}
 	<tr>
@@ -48,7 +43,7 @@ We are currently offering the following theses.
         <tr>
         {% for pair in row %}
 	   {% if pair[0] == "Link" %}
-	   	 <td><a href="{{ pair[1] }}">{{ pair[1] }}</a> </td>
+	   	 <td><a href="{{ pair[1] }}"> More Information </a> </td>
 	   {% elsif pair[0] != "Type" %}
 	   	 <td>{{ pair[1] }}</td>
 	   {% endif %}
