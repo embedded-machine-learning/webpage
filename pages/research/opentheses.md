@@ -8,7 +8,7 @@ permalink: "/research/opentheses/"
 ---
 We are currently offering the following theses.
 
-{% assign date = 1672835309 %}
+{% assign date = 1672798700 %}
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
@@ -28,7 +28,7 @@ We are currently offering the following theses.
      {% if forloop.first %}
 	<tr>
 	{% for pair in row %}
-	   {% if pair[0] != "Type" %}
+	   {% if pair[0] != "Type" and pair[0] != "Email1" and pair[0] != "Email2" and pair[0] != "Link" %}
 	      <th>{{ pair[0] }}</th>
 	   {% endif %}
         {% endfor %}
@@ -49,13 +49,13 @@ We are currently offering the following theses.
 	   {% elsif pair[0] == "Link" %}
 		 {% assign linkToThesis = {{ pair[1] }} %}
 	   {% elsif pair[0] == "Supervisor 1" %}
-	     <td><a href="mailto:{{ emailadr1 }}"> pair[1] </a> </td>
+	     <td><a href="mailto:{{ emailadr1 }}"> {{ pair[1] }} </a> </td>
 	   {% elsif pair[0] == "Supervisor 2" %}
 		 {% if pair[1] != "" %}
-	       <td><a href="mailto:{{ emailadr2 }}"> pair[1] </a> </td>
+	       <td><a href="mailto:{{ emailadr2 }}"> {{ pair[1] }} </a> </td>
 		 {% endif %}
 	   {% elsif pair[0] == "Title" %}
-	   	 <td><a href="{{ linkToThesis }}"> pair[1] </a> </td>
+	   	 <td><a href="{{ linkToThesis }}"> {{ pair[1] }} </a> </td>
 	   {% elsif pair[0] != "Type" %}
 	   	 <td>{{ pair[1] }}</td>
 	   {% endif %}
