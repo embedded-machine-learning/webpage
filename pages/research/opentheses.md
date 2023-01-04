@@ -8,7 +8,7 @@ permalink: "/research/opentheses/"
 ---
 We are currently offering the following theses.
 
-{% assign date = 1672835683 %}
+{% assign date = 1672836287 %}
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
@@ -43,11 +43,11 @@ We are currently offering the following theses.
         <tr>
         {% for pair in row %}
 	   {% if pair[0] == "Email1" %}
-		 {% assign emailadr1 = {{ pair[1] }} %}
+		 {% assign emailadr1 = { pair[1] } %}
 	   {% elsif pair[0] == "Email2" %}
-	     {% assign emailadr2 = {{ pair[1] }} %}
+	     {% assign emailadr2 = { pair[1] } %}
 	   {% elsif pair[0] == "Link" %}
-		 {% assign linkToThesis = {{ pair[1] }} %}
+		 {% assign linkToThesis = { pair[1] } %}
 	   {% elsif pair[0] == "Supervisor 1" %}
 	     <td><a href="mailto:{{ emailadr1 }}"> {{ pair[1] }} </a> </td>
 	   {% elsif pair[0] == "Supervisor 2" %}
