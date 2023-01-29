@@ -23,7 +23,7 @@ We are currently offering the following theses.
 ### {{ 'Mastertheses:'}}
 {% endif %}
 
-<table>
+<table class="thesis-table">
   {% for row in site.data.OpenTheses %}
      {% if forloop.first %}
 	<tr>
