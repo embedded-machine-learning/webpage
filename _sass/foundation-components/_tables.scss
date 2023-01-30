@@ -123,7 +123,7 @@ $table-margin-bottom: rem-calc(20) !default;
   tbody tr th,
   tbody tr td,
   tr td { display: $table-display; line-height: $table-line-height; }
-  &.thesis-table {width: 100%; th {width: 120px;	white-space: nowrap;} th:last-child() {width: auto;}}
+  &.thesis-table {width: 100%; th {width: 120px;	white-space: nowrap;} th:last-child {width: auto;}}
 }
 
 
