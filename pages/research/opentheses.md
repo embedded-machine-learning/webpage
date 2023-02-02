@@ -28,16 +28,17 @@ We are currently offering the following theses.
      {% if forloop.first %}
 	<tr>
 	{% for pair in row %}
-	   {% if pair[0] != "Type" and pair[0] != "Email1" and pair[0] != "Email2" and pair[0] != "Link" %}
+	   {% if pair[0] != "Available" and pair[0] != "Type" and pair[0] != "Email1" and pair[0] != "Email2" and pair[0] != "Link" %}
 	      <th>{{ pair[0] }}</th>
 	   {% endif %}
         {% endfor %}
 	</tr>
      {% endif %}
+	 {% assign available = {row['Available']} %}
      {% assign timestamp = {row['Date'] | date: "%s"} %}
      {% assign timestamp = timestamp | plus: 0 %}
      {% assign timestamp = timestamp | plus: 23328000 %}
-     {% if timestamp >= date %}
+     {% if timestamp >= date and available == "1"%}
 
      {% if row["Type"] == Type %}
         <tr>
