@@ -310,13 +310,13 @@ permalink: /team/
 from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotrba, Axel Jantsch, Dominik Dallinger, Matthias Wess, Daniel Schnöll, Matvey Ivanov
 
 <h2>Affiliated Research Students </h2>
-Birgit Schreiber (TU Wien, Master)<br>
 Alexander Ludwig (TU Wien, Master)<br> 
-Sherif Mohamed (TU Wien, Master) <br>
-Thomas Palan (TU Wien, Master) <br>
+Birgit Schreiber (TU Wien, Master)<br>
 Julian Westra (TU Wien, Bachelor)<br>
 Maroun El-Chayeb (TU Wien, Bachelor)<br>
 Matthias Dippold (TU Wien, Bachelor) <br>
+Sherif Mohamed (TU Wien, Master) <br>
+Thomas Palan (TU Wien, Master) <br>
 
 
 <h2>Research Staff Alumni</h2>
@@ -325,15 +325,15 @@ Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU WIE
 
 
 <h2>Research Students Alumni</h2>
-Helmuth Breitenfellner (TU Wien, Master)<br>
-Alon Tchelet (TU Wien, Master) moved to <a href="https://www.streamunlimited.com/">Stream Unlimited</a> <br> 
-Lukas Steindl (TU Wien, Master)<br>
-Michael Optiz (TU Graz, Ph.D) moved to <a href="https://www.amazon.de/">Amazon Berlin</a> <br>
 Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
+Alon Tchelet (TU Wien, Master) moved to <a href="https://www.streamunlimited.com/">Stream Unlimited</a> <br> 
+Amid Mozelli (TU Wien) moved to <a href="https://mission-embedded.com/"> Mission Embedded</a><br>
 Anam Zahra (TU Graz, Master)<br>
 Andreas Glinserer (TU Wien, Master) moved to<a href="http://www.eyyes.com/"> EYYES GmbH</a><br>
 Bernhard Haas (TU Wien, Master) moved to <a href="https://www.gfz-potsdam.de/startseite/">GeoForschungsZentrum Potsdam</a><br>
-Fabian Scherer (TU Wien, Bachelor)<br>
-Amid Mozelli (TU Wien) moved to <a href="https://mission-embedded.com/"> Mission Embedded</a><br>
-Nicolas Alge (TU Wien, Bachelor)<br>
 David Radu Andrei (TU Wien, Bachelor)<br>
+Fabian Scherer (TU Wien, Bachelor)<br>
+Helmuth Breitenfellner (TU Wien, Master)<br>
+Lukas Steindl (TU Wien, Master)<br>
+Michael Optiz (TU Graz, Ph.D) moved to <a href="https://www.amazon.de/">Amazon Berlin</a> <br>
+Nicolas Alge (TU Wien, Bachelor)<br>
