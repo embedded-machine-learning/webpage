@@ -72,22 +72,8 @@ permalink: /team/
             <br>(TU Graz)
             </a>
         </div>
-        <div class="small-6 columns">
-            <a href="https://tiss.tuwien.ac.at/person/279134.html?suchtext=wuschnig">
-            <img src="{{ site.urlimg }}/people/MarcoWuschnig.jpg">
-            Marco Leber-Wuschning
-            <br>(TU Wien)
-            </a>
-        </div>
     </div>
     <div class="row">
-        <div class="small-6 columns">
-            <a href="https://tiss.tuwien.ac.at/person/309632.html?suchtext=ivanov">
-            <img src="{{ site.urlimg }}/people/MatveyIvanov.png">
-            Matvey Ivanov
-            <br>(TU Wien)
-            </a>
-        </div>
         <div class="small-6 columns">
             <a href="https://tiss.tuwien.ac.at/person/282097.html?suchtext=bittner">
             <img src="{{ site.urlimg }}/people/MatthiasBittner.png">
@@ -229,13 +215,6 @@ permalink: /team/
             <br>(TU Graz)
             </a>
         </div>
-        <div class="large-2 columns">
-            <a href="https://tiss.tuwien.ac.at/person/279134.html?suchtext=wuschnig">
-            <img src="{{ site.urlimg }}/people/MarcoWuschnig.jpg">
-            Marco Leber-Wuschning
-            <br>(TU Wien)
-            </a>
-        </div>
         
         <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/334964.html?suchtext=Sch%C3%B6fl">
@@ -255,13 +234,6 @@ permalink: /team/
         </div>
     </div>
     <div class="row">
-        <div class="large-2 columns">
-            <a href="https://tiss.tuwien.ac.at/person/309632.html?suchtext=ivanov">
-            <img src="{{ site.urlimg }}/people/MatveyIvanov.png">
-            Matvey Ivanov
-            <br>(TU Wien)
-            </a>
-        </div>
         <!-- <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/279146.html?suchtext=mozell">
             <img src="{{ site.urlimg }}/people/AmidMozelli.jpg">
@@ -309,8 +281,7 @@ permalink: /team/
 <img src="{{ site.urlimg }}/people/Teamfoto_small.jpg">
 from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotrba, Axel Jantsch, Dominik Dallinger, Matthias Wess, Daniel Schnöll, Matvey Ivanov
 
-<h2>Affiliated Research Students </h2>
-Alexander Ludwig (TU Wien, Master)<br> 
+<h2>Affiliated Research Students </h2> 
 Birgit Schreiber (TU Wien, Master)<br>
 Julian Westra (TU Wien, Bachelor)<br>
 Maroun El-Chayeb (TU Wien, Bachelor)<br>
@@ -322,10 +293,13 @@ Thomas Palan (TU Wien, Master) <br>
 <h2>Research Staff Alumni</h2>
 Alexander Wendt (TU Wien, Ph.D) moved to <a href="https://www.ebcont.com/">Ebcont Vienna</a> <br> 
 Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU WIEN</a> <br>
+Marco Leber-Wuschning (TU Wien, Bachelor) moved to <a href="https://new.siemens.com/at/de.html">Siemens Österreich</a> <br>
+Matvey Ivanov (TU Wien, Bachelor) <br>
 
 
 <h2>Research Students Alumni</h2>
 Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
+Alexander Ludwig (TU Wien, Master) moved to <a href="https://mission-embedded.com/"> Mission Embedded</a><br>
 Alon Tchelet (TU Wien, Master) moved to <a href="https://www.streamunlimited.com/">Stream Unlimited</a> <br> 
 Amid Mozelli (TU Wien) moved to <a href="https://mission-embedded.com/"> Mission Embedded</a><br>
 Anam Zahra (TU Graz, Master)<br>
