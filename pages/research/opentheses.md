@@ -8,19 +8,19 @@ permalink: "/research/opentheses/"
 ---
 We are currently offering the following theses.
 
-{% assign date = 1677067761 %}
+{% assign date = 1677068672 %}
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
 {% for Type in TypeList %}
 
-  {%if Type == 'BA' %}
-    <h3> {{ 'Bachelortheses:'}} </h3>
-  {% endif %}
+{%if Type == 'BA' %}
+### {{ 'Bachelortheses:'}}
+{% endif %}
 
-  {%if Type == 'DA' %}
-    <h3> {{ 'Mastertheses:'}} </h3>
-  {% endif %}
+{%if Type == 'DA' %}
+### {{ 'Mastertheses:'}}
+{% endif %}
 
   <table class="thesis-table">
     {% for row in site.data.OpenTheses %}
