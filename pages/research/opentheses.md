@@ -8,61 +8,60 @@ permalink: "/research/opentheses/"
 ---
 We are currently offering the following theses.
 
-{% assign date = 1677066690 %}
+{% assign date = 1677067223 %}
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
 {% for Type in TypeList %}
 
-	{%if Type == 'BA' %}
-		### {{ 'Bachelortheses:'}}
-	{% endif %}
+  {%if Type == 'BA' %}
+    ### {{ 'Bachelortheses:'}}
+  {% endif %}
 
-	{%if Type == 'DA' %}
-		### {{ 'Mastertheses:'}}
-	{% endif %}
+  {%if Type == 'DA' %}
+    ### {{ 'Mastertheses:'}}
+  {% endif %}
 
-	<table class="thesis-table">
-	{% for row in site.data.OpenTheses %}
-		{% if forloop.first %}
-			<tr>
-			{% for pair in row %}
-			   {% if pair[0] != "Available" and pair[0] != "Type" and pair[0] != "Email1" and pair[0] != "Email2" and pair[0] != "Link" %}
-				  <th>{{ pair[0] }}</th>
-			   {% endif %}
-			{% endfor %}
-			</tr>
-		{% endif %}
-		
-		{% assign timestamp = {row['Date'] | date: "%s"} %}
-		{% assign timestamp = timestamp | plus: 0 %}
-		{% assign timestamp = timestamp | plus: 23328000 %}
-
-		{% if row["Type"] == Type %}
-			<tr>
-			{% for pair in row %}
-				{% if pair[0] == "Email1" %}
-					{% assign emailadr1 = pair[1] %}
-				{% elsif pair[0] == "Email2" %}
-					{% assign emailadr2 = pair[1] %}
-				{% elsif pair[0] == "Link" %}
-					{% assign linkToThesis = pair[1] %}
-				{% elsif pair[0] == "Supervisor 1" %}
-					<td><a href="mailto:{{ emailadr1 }}"> {{ pair[1] }} </a> </td>
-				{% elsif pair[0] == "Supervisor 2" %}
-					{% if pair[1] != "" %}
-						<td><a href="mailto:{{ emailadr2 }}"> {{ pair[1] }} </a> </td>
-					{% endif %}
-				{% elsif pair[0] == "Title" %}
-					<td><a href="{{ linkToThesis }}"> {{ pair[1] }} </a> </td>
-				{% elsif pair[0] != "Type" and pair[0] != "Available" %}
-					<td>{{ pair[1] }}</td>
-				{% endif %}
-			{% endfor %}
-			</tr>
-		{% endif %}
-	{% endfor %}
-	</table>
+  <table class="thesis-table">
+    {% for row in site.data.OpenTheses %}
+      {% if forloop.first %}
+        <tr>
+        {% for pair in row %}
+          {% if pair[0] != "Available" and pair[0] != "Type" and pair[0] != "Email1" and pair[0] != "Email2" and pair[0] != "Link" %}
+            <th>{{ pair[0] }}</th>
+          {% endif %}
+        {% endfor %}
+        </tr>
+      {% endif %}	
+      {% assign timestamp = {row['Date'] | date: "%s"} %}
+      {% assign timestamp = timestamp | plus: 0 %}
+      {% assign timestamp = timestamp | plus: 23328000 %}
+	  
+      {% if row["Type"] == Type %}
+        <tr>
+          {% for pair in row %}
+            {% if pair[0] == "Email1" %}
+              {% assign emailadr1 = pair[1] %}
+            {% elsif pair[0] == "Email2" %}
+              {% assign emailadr2 = pair[1] %}
+            {% elsif pair[0] == "Link" %}
+              {% assign linkToThesis = pair[1] %}
+            {% elsif pair[0] == "Supervisor 1" %}
+              <td><a href="mailto:{{ emailadr1 }}"> {{ pair[1] }} </a> </td>
+            {% elsif pair[0] == "Supervisor 2" %}
+              {% if pair[1] != "" %}
+                <td><a href="mailto:{{ emailadr2 }}"> {{ pair[1] }} </a> </td>
+              {% endif %}
+            {% elsif pair[0] == "Title" %}
+              <td><a href="{{ linkToThesis }}"> {{ pair[1] }} </a> </td>
+            {% elsif pair[0] != "Type" and pair[0] != "Available" %}
+              <td>{{ pair[1] }}</td>
+            {% endif %}
+          {% endfor %}
+          </tr>
+      {% endif %}
+    {% endfor %}
+    </table>
 {% endfor %}
 
 ### Finished Theses
