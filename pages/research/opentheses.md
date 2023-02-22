@@ -15,11 +15,11 @@ We are currently offering the following theses.
 {% for Type in TypeList %}
 
   {%if Type == 'BA' %}
-    ### {{ 'Bachelortheses:'}}
+    <h3> {{ 'Bachelortheses:'}} </h3>
   {% endif %}
 
   {%if Type == 'DA' %}
-    ### {{ 'Mastertheses:'}}
+    <h3> {{ 'Mastertheses:'}} </h3>
   {% endif %}
 
   <table class="thesis-table">
