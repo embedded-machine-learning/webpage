@@ -8,7 +8,7 @@ permalink: "/research/opentheses/"
 ---
 We are currently offering the following theses.
 
-{% assign date = 1677058121 %}
+{% assign date = 1677058274 %}
 
 {% assign TypeList = "BA,DA" | split: "," %}
 
@@ -55,7 +55,7 @@ We are currently offering the following theses.
 		 {% endif %}
 	   {% elsif pair[0] == "Title" %}
 	   	 <td><a href="{{ linkToThesis }}"> {{ pair[1] }} </a> </td>
-	   {% elsif pair[0] != "Type" pair[0] != "Available" %}
+	   {% elsif pair[0] != "Type" and pair[0] != "Available" %}
 	   	 <td>{{ pair[1] }}</td>
 	   {% endif %}
         {% endfor %}
