@@ -2,7 +2,7 @@
 layout: page
 # subheadline:  "...and it works"
 title:  "DATE 2023 Publication"
-teaser: "The paper "Multispectral Feature Fusion for Deep Object Detection on Embedded NVIDIA Platforms" got accepted at the DATE 2023 conference, 17-19 April 2023, Antwerp, BE"
+teaser: "The paper 'Multispectral Feature Fusion for Deep Object Detection on Embedded NVIDIA Platforms' got accepted at the DATE 2023 conference, 17-19 April 2023, Antwerp, BE"
 categories:
  - Press
 tags:
