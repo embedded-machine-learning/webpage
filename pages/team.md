@@ -168,8 +168,8 @@ permalink: /team/
             <h2>Research Staff & Coordination Staff</h2>
         </div><!-- /.small-12.columns -->
     </div>
-		<div class="row">
-	        <div class="large-2 columns">
+	<div class="row">
+	    <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/334964.html?suchtext=Sch%C3%B6fl">
             <img src="{{ site.urlimg }}/people/CarinaSchoefl.jpg">
             Carina Schöfl
@@ -190,15 +190,13 @@ permalink: /team/
             <br>(TU Wien)
             </a>
         </div>
-		        <div class="large-2 columns">
+		<div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/297458.html?suchtext=Dominik+Dallinger">
             <img src="{{ site.urlimg }}/people/DominikDallinger.jpg">
             Dominik Dallinger
             <br>(TU Wien)
             </a>
         </div>
-    </div>
-    <div class="row">
 	    <div class="large-2 columns">
             <a href="https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=4DE870E70FB9C6ED&pPersonenGruppe=3">
             <img src="{{ site.urlimg }}/people/DusanMalic.png">
@@ -213,6 +211,8 @@ permalink: /team/
             <br>(TU Graz)
             </a>
         </div>
+	</div>
+    <div class="row">
 		<div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/203862.html?suchtext=lechner">
             <img src="{{ site.urlimg }}/people/MartinLechner.jpg">
@@ -227,10 +227,6 @@ permalink: /team/
             <br>(TU Wien)
             </a>
         </div>
-        <div class="large-2 columns">
-        </div>
-    </div>
-    <div class="row">
 		<div class="large-2 columns">
             <a href=" https://tiss.tuwien.ac.at/person/179979.html?suchtext=wess">
             <img src="{{ site.urlimg }}/people/MatthiasWess.jpg">
@@ -252,7 +248,7 @@ permalink: /team/
             <br>(TU Wien)
             </a>
         </div>
-         <div class="large-2 columns">
+        <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/371453.html?suchtext=Tobias+grillr">
             <img src="{{ site.urlimg }}/people/TobiasGrill.jpg">
             Tobias Grill 
