@@ -264,8 +264,12 @@ permalink: /team/
 <img src="{{ site.urlimg }}/people/Teamfoto_small.jpg">
 from left to right Matthias Bittner, Marco Wuschnig, Carina Schöfl, Thomas Kotrba, Axel Jantsch, Dominik Dallinger, Matthias Wess, Daniel Schnöll, Matvey Ivanov
 
+
 <h2>Affiliated Research Students </h2> 
+Aleksei Zubkov (TU Wien, Master)<br>
+Alexander Ludwig (TU Wien, Master)<br>
 Birgit Schreiber (TU Wien, Master)<br>
+Jonathan Kapfinger (TU Wien, Bachelor)<br>
 Julian Westra (TU Wien, Bachelor)<br>
 Maroun El-Chayeb (TU Wien, Bachelor)<br>
 Matthias Dippold (TU Wien, Bachelor) <br>
@@ -276,13 +280,12 @@ Thomas Palan (TU Wien, Master) <br>
 <h2>Research Staff Alumni</h2>
 Alexander Wendt (TU Wien, Ph.D) moved to <a href="https://www.ebcont.com/">Ebcont Vienna</a> <br> 
 Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU WIEN</a> <br>
-Marco Leber-Wuschning (TU Wien, Bachelor) moved to <a href="https://new.siemens.com/at/de.html">Siemens Österreich</a> <br>
+Marco Leber-Wuschning (TU Wien, Bachelor) moved to <a href="https://www.siemens-energy.com/global/en.html">Siemens Energy</a> <br>
 Matvey Ivanov (TU Wien, Bachelor) <br>
 
 
 <h2>Research Students Alumni</h2>
 Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
-Alexander Ludwig (TU Wien, Master) moved to <a href="https://mission-embedded.com/"> Mission Embedded</a><br>
 Alon Tchelet (TU Wien, Master) moved to <a href="https://www.streamunlimited.com/">Stream Unlimited</a> <br> 
 Amid Mozelli (TU Wien) moved to <a href="https://mission-embedded.com/"> Mission Embedded</a><br>
 Anam Zahra (TU Graz, Master)<br>
