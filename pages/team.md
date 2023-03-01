@@ -119,18 +119,13 @@ permalink: /team/
     </div>
     <div class="row">
         <div class="small-6 columns">
-            <a href="https://tiss.tuwien.ac.at/person/291449.html?suchtext=thomas+kotr">
-            <img src="{{ site.urlimg }}/people/ThomasKotrba.jpeg">
-            Thomas Kotrba 
-            <br>(TU Wien)
-            </a>
-        </div>
-        <div class="small-6 columns">
             <a href="https://tiss.tuwien.ac.at/person/371453.html?suchtext=Tobias+grill">
             <img src="{{ site.urlimg }}/people/TobiasGrill.jpg">
             Tobias Grill
             <br>(TU Wien)
             </a>
+        </div>
+		<div class="small-6 columns">
         </div>
     </div>
 </div>
@@ -244,19 +239,14 @@ permalink: /team/
             </a>
         </div>
         <div class="large-2 columns">
-            <a href="https://tiss.tuwien.ac.at/person/291449.html?suchtext=thomas+kotr">
-            <img src="{{ site.urlimg }}/people/ThomasKotrba.jpeg">
-            Thomas Kotrba 
-            <br>(TU Wien)
-            </a>
-        </div>
-        <div class="large-2 columns">
             <a href="https://tiss.tuwien.ac.at/person/371453.html?suchtext=Tobias+grillr">
             <img src="{{ site.urlimg }}/people/TobiasGrill.jpg">
             Tobias Grill 
             <br>(TU Wien)
             </a>
-        </div>    
+        </div>   
+        <div class="large-2 columns">
+        </div>		
     </div>
 </div>
 
@@ -274,6 +264,7 @@ Julian Westra (TU Wien, Bachelor)<br>
 Maroun El-Chayeb (TU Wien, Bachelor)<br>
 Matthias Dippold (TU Wien, Bachelor) <br>
 Sherif Mohamed (TU Wien, Master) <br>
+Thomas Kotrba (TU Wien, Master) <br>
 Thomas Palan (TU Wien, Master) <br>
 
 
@@ -281,7 +272,8 @@ Thomas Palan (TU Wien, Master) <br>
 Alexander Wendt (TU Wien, Ph.D) moved to <a href="https://www.ebcont.com/">Ebcont Vienna</a> <br> 
 Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU WIEN</a> <br>
 Marco Leber-Wuschning (TU Wien, Bachelor) moved to <a href="https://www.siemens-energy.com/global/en.html">Siemens Energy</a> <br>
-Matvey Ivanov (TU Wien, Bachelor) <br>
+Matvey Ivanov (TU Wien, Bachelor) moved to <a href="https://www.tuwien.at/">TU WIEN</a> <br>
+Thomas Kotrba (TU Wien, Bachelor) moved to <a href="https://www.compactelectric.at"> Compact Electric</a><br>
 
 
 <h2>Research Students Alumni</h2>
