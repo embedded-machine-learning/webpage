@@ -272,16 +272,16 @@ Thomas Palan (TU Wien, Master) <br>
 Alexander Wendt (TU Wien, Ph.D) moved to <a href="https://www.ebcont.com/">Ebcont Vienna</a> <br> 
 Christian Krieg (TU Wien, Ph.D) moved to <a href="https://www.tuwien.at/">TU WIEN</a> <br>
 Marco Leber-Wuschning (TU Wien, Bachelor) moved to <a href="https://www.siemens-energy.com/global/en.html">Siemens Energy</a> <br>
-Matvey Ivanov (TU Wien, Bachelor) moved to <a href="https://www.tuwien.at/">TU WIEN</a> <br>
-Thomas Kotrba (TU Wien, Bachelor) moved to <a href="https://www.compactelectric.at"> Compact Electric</a><br>
+Matvey Ivanov (TU Wien, Bachelor) moved to <a href="https://www.compactelectric.at">Compact Electric</a><br>
+Thomas Kotrba (TU Wien, Bachelor) moved to <a href="https://mission-embedded.com/">Mission Embedded</a><br>
 
 
 <h2>Research Students Alumni</h2>
 Alemajehu Kaleab Kinfu (TU Graz, Master)<br>
 Alon Tchelet (TU Wien, Master) moved to <a href="https://www.streamunlimited.com/">Stream Unlimited</a> <br> 
-Amid Mozelli (TU Wien) moved to <a href="https://mission-embedded.com/"> Mission Embedded</a><br>
+Amid Mozelli (TU Wien) moved to <a href="https://mission-embedded.com/">Mission Embedded</a><br>
 Anam Zahra (TU Graz, Master)<br>
-Andreas Glinserer (TU Wien, Master) moved to<a href="http://www.eyyes.com/"> EYYES GmbH</a><br>
+Andreas Glinserer (TU Wien, Master) moved to<a href="http://www.eyyes.com/">EYYES GmbH</a><br>
 Bernhard Haas (TU Wien, Master) moved to <a href="https://www.gfz-potsdam.de/startseite/">GeoForschungsZentrum Potsdam</a><br>
 David Radu Andrei (TU Wien, Bachelor)<br>
 Fabian Scherer (TU Wien, Bachelor)<br>
