@@ -1,3 +1,5 @@
+[![Docker Image CI](https://github.com/embedded-machine-learning/webpage/actions/workflows/docker-image.yml/badge.svg?branch=master)](https://github.com/embedded-machine-learning/webpage/actions/workflows/docker-image.yml)
+
 # Christian Doppler Laboratory for Embedded Machine Learning Webpage
 
 ## Workflow
