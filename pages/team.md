@@ -25,9 +25,9 @@ permalink: /team/
             </a>
         </div>
         <div class="small-6 columns">
-            <a href="https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/">
-                <img src="{{ site.urlimg }}/people/HorstBischof.jpg">
-                Horst Bischof
+            <a href="https://www.tugraz.at/institute/icg/research/team-pock/people/pock/">
+                <img src="{{ site.urlimg }}/people/ThomasPock.jpg">
+                Thomas Pock
                 <br>(TU Graz)
             </a>
         </div>
@@ -145,9 +145,9 @@ permalink: /team/
             </a>
         </div>
         <div class="large-2 columns">
-            <a href="https://www.tugraz.at/institute/icg/research/team-bischof/people/team-about/horst-bischof/">
-                <img src="{{ site.urlimg }}/people/HorstBischof.jpg">
-                Horst Bischof
+			<a href="https://www.tugraz.at/institute/icg/research/team-pock/people/pock/">
+                <img src="{{ site.urlimg }}/people/ThomasPock.jpg">
+                Thomas Pock
                 <br>(TU Graz)
             </a>
         </div>
